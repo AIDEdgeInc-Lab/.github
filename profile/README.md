@@ -208,6 +208,7 @@ We value your feedback and are happy to assist with any questions or requirement
 ---
 
 
+
 <p align="center">
   <strong>🌟 Follow us on:</strong>
 </p>
@@ -219,11 +220,4 @@ We value your feedback and are happy to assist with any questions or requirement
     <img src="https://img.shields.io/badge/GitHub-AID%20Edge%20Inc.-Pastel%20Gray?style=for-the-badge&color=F0F0F0" alt="GitHub">
   </a>
 </p>
-
-<hr>
-
-<p align="center">
-  <i>Last Updated: January 20, 2025</i>
-</p>
-
 
