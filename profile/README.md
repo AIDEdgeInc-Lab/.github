@@ -32,14 +32,14 @@
 </p>
 
 
----
+
 ---
 
 <p align="center">💡 Empowering AI. Transforming Industries. 🚀</p>
 
 ---
 
----
+
 
 ## 🚀 Our Mission
 
@@ -205,5 +205,18 @@ _For questions, feedback, or to learn more, reach out to us:_
 We value your feedback and are happy to assist with any questions or requirements!
 
 
+---
+
+<p align="center">
+  💡 Want to learn more? Visit our [website](https://www.aidedgeinc.com) or reach out at [info@aidedgeinc.com](mailto:info@aidedgeinc.com).
+</p>
+
+<p align="center">
+  🌟 Follow us on [LinkedIn](https://linkedin.com/company/aidedge) • [Twitter](https://twitter.com/aidedge) • [GitHub](https://github.com/AIDEdgeInc-Lab)
+</p>
+
+<p align="center">
+  <i>Last Updated: January 20, 2025</i>
+</p>
 
 
