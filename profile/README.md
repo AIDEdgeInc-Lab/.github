@@ -43,13 +43,13 @@
 
 
 
-## 🚀 Our Mission
+## ![image](https://github.com/user-attachments/assets/5e741946-289a-4ead-b740-4d18f3645a6a)  Our Mission
 
 Empowering industries with cutting-edge AI technologies for real-world applications.
 
 ---
 
-## 🎯 Core Projects
+## ![image](https://github.com/user-attachments/assets/e1590430-3185-498d-876f-7aa398a99843) Core Projects
 
 Welcome to the **AID Edge Inc. Lab** repository for cutting-edge AI-driven solutions. This repository contains the core projects developed by our team, focusing on:
 
@@ -61,7 +61,7 @@ Welcome to the **AID Edge Inc. Lab** repository for cutting-edge AI-driven solut
 
 ---
 
-## ✨ Projects Overview
+## ![image](https://github.com/user-attachments/assets/4bb5df94-a689-4b29-8872-9a3b921d3bf7) Projects Overview
 
 ### [Edge AI Solutions](Edge-AI-Solutions/README.md)
 This project focuses on:
@@ -97,12 +97,12 @@ Explore the project folder: [Hybrid-ML-Frameworks](Hybrid-ML-Frameworks/)
 
 ---
 
-## ▶️ How to Run the Projects
+## ![image](https://github.com/user-attachments/assets/98312a72-bf01-45e8-8401-7f464dfa1772)  How to Run the Projects
 
 Follow the steps below to set up the environment and run the workflows for each project:
 
 
-###  Step 1: Clone the Repository
+### ![image](https://github.com/user-attachments/assets/f3745ebf-9ee3-409e-98b3-26c054e7c2c2) Step 1: Clone the Repository
 Clone this repository to your local machine:
 
 git clone https://github.com/AIDEdgeInc-Lab/Core-Projects.git
@@ -110,7 +110,7 @@ git clone https://github.com/AIDEdgeInc-Lab/Core-Projects.git
 
 ---
 
-###  Step 2: Set Up the Environment
+### ![image](https://github.com/user-attachments/assets/bef9f9a1-0011-451b-8b37-375cb0fee695) Step 2: Set Up the Environment
 
 Install required dependencies:
 
@@ -127,7 +127,7 @@ export MODEL_PATH=/path/to/model
 
 ---
 
-###  Step 3: Run Individual Projects
+### ![image](https://github.com/user-attachments/assets/4539068e-4558-4c3e-92ff-8841fc72dbc4) Step 3: Run Individual Projects
 
 #### Edge AI Solutions
 
@@ -179,7 +179,7 @@ python hybrid_inference.py --input data/input.json
 
 ---
 
-## 💬 Transparency and Feedback
+## ![image](https://github.com/user-attachments/assets/8c30078c-e32b-4242-8ad5-ff75e40b271a) Transparency and Feedback
 
 At AID Edge Inc., we believe in providing transparency to our customers by sharing the code and workflows behind our cutting-edge AI solutions. While the code is accessible for viewing, only our internal team works on developing and maintaining these projects.
 
@@ -196,7 +196,7 @@ These repositories are actively maintained and updated by our in-house team. For
 
 ---
 
-## 📬 Contact
+## ![image](https://github.com/user-attachments/assets/22896e8c-3c4f-417a-95a9-a0d45f07b16c) Contact
 
 For questions, feedback, or to learn more, reach out to us:
 
@@ -212,7 +212,7 @@ We value your feedback and are happy to assist with any questions or requirement
 
 
 <p align="center">
-  <strong>🌟 Follow us on:</strong>
+  <strong>![image](https://github.com/user-attachments/assets/b09aff08-ed61-4da5-a902-ea9a57b07cf4)  Follow us on:</strong>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/company/aid-edge-inc">
