@@ -49,9 +49,7 @@ Empowering industries with cutting-edge AI technologies for real-world applicati
 
 ---
 
-## <img src="![image](https://github.com/user-attachments/assets/b13ee53a-d5b2-40a7-a71b-7520a9417ce5)" alt="Lightning Icon" width="400px">
-
- Core Projects
+## <img src="![image](https://github.com/user-attachments/assets/b13ee53a-d5b2-40a7-a71b-7520a9417ce5)" alt="Lightning Icon" width="400px">  Core Projects
 
 Welcome to the **AID Edge Inc. Lab** repository for cutting-edge AI-driven solutions. This repository contains the core projects developed by our team, focusing on:
 
