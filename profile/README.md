@@ -15,6 +15,18 @@
   <a href="#contact-us"><strong>Contact Us</strong></a>
 </p>
 
+
+<div style="background-color: #800080; padding: 10px; border-radius: 8px; text-align: center; color: white; font-family: Arial, sans-serif;">
+  <a href="#our-mission" style="color: white; text-decoration: none; font-weight: bold; margin: 0 10px;">Our Mission</a>
+  •
+  <a href="#core-projects" style="color: white; text-decoration: none; font-weight: bold; margin: 0 10px;">Core Projects</a>
+  •
+  <a href="#how-to-get-started" style="color: white; text-decoration: none; font-weight: bold; margin: 0 10px;">How to Get Started</a>
+  •
+  <a href="#contact-us" style="color: white; text-decoration: none; font-weight: bold; margin: 0 10px;">Contact Us</a>
+</div>
+
+
 ---
 
 ## 🚀 Our Mission
