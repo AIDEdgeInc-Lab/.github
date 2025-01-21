@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="AEI-Lab-Image1.png alt="AID Edge Inc. Logo" height="400"/>
+  <img src="AEI-Lab-Image1.png" alt="AID Edge Inc. Logo" height="400"/>
 </p>
 
 
