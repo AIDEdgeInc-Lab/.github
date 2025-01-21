@@ -207,12 +207,16 @@ We value your feedback and are happy to assist with any questions or requirement
 
 ---
 
+---
+
 <p align="center">
-  💡 Want to learn more? Visit our [website](https://www.aidedgeinc.com) or reach out at [info@aidedgeinc.com](mailto:info@aidedgeinc.com).
+  💡 Want to learn more? Visit our [website](https://www.aidedgeinc.com), connect with us on [LinkedIn](https://www.linkedin.com/company/aid-edge-inc), or reach out at [info@aidedgeinc.com](mailto:info@aidedgeinc.com).
 </p>
 
 <p align="center">
-  🌟 Follow us on [LinkedIn](https://linkedin.com/company/aidedge) • [Twitter](https://twitter.com/aidedge) • [GitHub](https://github.com/AIDEdgeInc-Lab)
+  🌟 Follow us on:
+  <a href="https://www.linkedin.com/company/aid-edge-inc"><img src="https://img.shields.io/badge/LinkedIn-AID%20Edge%20Inc.-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/AIDEdgeInc-Lab"><img src="https://img.shields.io/badge/GitHub-AID%20Edge%20Inc.-black?style=for-the-badge&logo=github" alt="GitHub"></a>
 </p>
 
 <p align="center">
