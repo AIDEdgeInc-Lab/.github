@@ -192,35 +192,34 @@ Feel free to explore the code and workflows for our solutions:
 These repositories are actively maintained and updated by our in-house team. For security and quality purposes, only the internal team has access to modify or develop the codebase.
 
 
-## Contact
+---
 
-_For questions, feedback, or to learn more, reach out to us:_
+## 📬 Contact
 
-  📧 **Email**: [info@aidedgeinc.com](mailto:info@aidedgeinc.com)
-  
-  🌐 **Website**: [www.aidedges.com](https://www.aidedges.com)
+For questions, feedback, or to learn more, reach out to us:
 
-
+- 📧 **Email**: [info@aidedgeinc.com](mailto:info@aidedgeinc.com)
+- 🌐 **Website**: [www.aidedgeinc.com](https://www.aidedgeinc.com)
 
 We value your feedback and are happy to assist with any questions or requirements!
 
-
 ---
 
----
-
-<p align="center">
-  💡 Want to learn more? Visit our [website](https://www.aidedgeinc.com), connect with us on [LinkedIn](https://www.linkedin.com/company/aid-edge-inc), or reach out at [info@aidedgeinc.com](mailto:info@aidedgeinc.com).
-</p>
+<p align="center">💡 Want to learn more? Visit our [website](https://www.aidedgeinc.com), connect with us on [LinkedIn](https://www.linkedin.com/company/aid-edge-inc), or reach out at [info@aidedgeinc.com](mailto:info@aidedgeinc.com).</p>
 
 <p align="center">
   🌟 Follow us on:
-  <a href="https://www.linkedin.com/company/aid-edge-inc"><img src="https://img.shields.io/badge/LinkedIn-AID%20Edge%20Inc.-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://github.com/AIDEdgeInc-Lab"><img src="https://img.shields.io/badge/GitHub-AID%20Edge%20Inc.-black?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/company/aid-edge-inc">
+    <img src="https://img.shields.io/badge/LinkedIn-AID%20Edge%20Inc.-Pastel%20Blue?style=for-the-badge&color=CCE7FF" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/AIDEdgeInc-Lab">
+    <img src="https://img.shields.io/badge/GitHub-AID%20Edge%20Inc.-Pastel%20Gray?style=for-the-badge&color=F0F0F0" alt="GitHub">
+  </a>
 </p>
 
 <p align="center">
   <i>Last Updated: January 20, 2025</i>
 </p>
+
 
 
