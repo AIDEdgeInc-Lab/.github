@@ -16,19 +16,19 @@
 <p align="center">
   
   <a href="https://github.com/AIDEdgeInc-Lab/Edge-AI-Platform">
-    <img src="https://img.shields.io/badge/Edge%20AI%20Platform-Pastel%20Gray?style=for-the-badge&color=F0F0F0" alt="Edge AI Platform" title="Discover solutions for edge AI deployment">
+    <img src="https://img.shields.io/badge/Edge%20AI%20Platform-Pastel%20Gray?style=for-the-badge&color=CCE7FF" alt="Edge AI Platform" title="Discover solutions for edge AI deployment">
   </a>
   <a href="https://github.com/AIDEdgeInc-Lab/TinyML-Optimization">
-    <img src="https://img.shields.io/badge/TinyML%20Optimization-Pastel%20Peach?style=for-the-badge&color=FFE5CC" alt="TinyML Optimization" title="Learn about lightweight models for edge devices">
+    <img src="https://img.shields.io/badge/TinyML%20Optimization-Pastel%20Peach?style=for-the-badge&color=E6E6FA" alt="TinyML Optimization" title="Learn about lightweight models for edge devices">
   </a>
   <a href="https://github.com/AIDEdgeInc-Lab/HybridML-Network-Models">
     <img src="https://img.shields.io/badge/HybridML%20Network%20Models-Pastel%20Mint?style=for-the-badge&color=CCFFE5" alt="HybridML Network Models" title="Discover frameworks for hybrid AI models">
   </a>
   <a href="https://github.com/AIDEdgeInc-Lab/Documentation-and-Learning">
-    <img src="https://img.shields.io/badge/Documentation%20and%20Learning-Pastel%20Lavender?style=for-the-badge&color=E6E6FA" alt="Documentation and Learning" title="Learn about AI concepts and tools">
+    <img src="https://img.shields.io/badge/Documentation%20and%20Learning-Pastel%20Lavender?style=for-the-badge&color=FFE5CC" alt="Documentation and Learning" title="Learn about AI concepts and tools">
   </a>
   <a href="https://github.com/AIDEdgeInc-Lab/Supporting-Tools">
-    <img src="https://img.shields.io/badge/Supporting%20Tools-Pastel%20Sky%20Blue?style=for-the-badge&color=CCE7FF" alt="Supporting Tools" title="Explore tools and resources to accelerate AI development">
+    <img src="https://img.shields.io/badge/Supporting%20Tools-Pastel%20Sky%20Blue?style=for-the-badge&color=F0F0F0" alt="Supporting Tools" title="Explore tools and resources to accelerate AI development">
   </a>
   
 </p>
