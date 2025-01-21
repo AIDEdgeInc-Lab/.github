@@ -17,17 +17,20 @@
 
 
 <p align="center">
-  <a href="#our-mission">
-    <img src="https://img.shields.io/badge/Our%20Mission-Light%20Purple?style=flat-square&color=D8BFD8" alt="Our Mission">
+  <a href="https://github.com/AIDEdgeInc-Lab/Documentation-and-Learning">
+    <img src="https://img.shields.io/badge/Documentation%20and%20Learning-Light%20Purple?style=for-the-badge&color=D8BFD8" alt="Documentation and Learning">
   </a>
-  <a href="#core-projects">
-    <img src="https://img.shields.io/badge/Core%20Projects-Light%20Blue?style=flat-square&color=ADD8E6" alt="Core Projects">
+  <a href="https://github.com/AIDEdgeInc-Lab/Supporting-Tools">
+    <img src="https://img.shields.io/badge/Supporting%20Tools-Light%20Blue?style=for-the-badge&color=ADD8E6" alt="Supporting Tools">
   </a>
-  <a href="#how-to-get-started">
-    <img src="https://img.shields.io/badge/How%20to%20Get%20Started-Light%20Pink?style=flat-square&color=FFB6C1" alt="How to Get Started">
+  <a href="https://github.com/AIDEdgeInc-Lab/HybridML-Network-Models">
+    <img src="https://img.shields.io/badge/HybridML%20Network%20Models-Light%20Teal?style=for-the-badge&color=AFEEEE" alt="HybridML Network Models">
   </a>
-  <a href="#contact-us">
-    <img src="https://img.shields.io/badge/Contact%20Us-Light%20Teal?style=flat-square&color=AFEEEE" alt="Contact Us">
+  <a href="https://github.com/AIDEdgeInc-Lab/TinyML-Optimization">
+    <img src="https://img.shields.io/badge/TinyML%20Optimization-Light%20Green?style=for-the-badge&color=98FB98" alt="TinyML Optimization">
+  </a>
+  <a href="https://github.com/AIDEdgeInc-Lab/Edge-AI-Platform">
+    <img src="https://img.shields.io/badge/Edge%20AI%20Platform-Light%20Gray?style=for-the-badge&color=D3D3D3" alt="Edge AI Platform">
   </a>
 </p>
 
