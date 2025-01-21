@@ -43,7 +43,7 @@
 
 
 
-## 🚀![image](https://github.com/user-attachments/assets/29a50ddb-84f4-462c-809c-80667521ed47)
+## 🚀<img src="![image](https://github.com/user-attachments/assets/29a50ddb-84f4-462c-809c-80667521ed47)" alt="Impact Icon" width="100" />
  Our Mission
 
 Empowering industries with cutting-edge AI technologies for real-world applications.
