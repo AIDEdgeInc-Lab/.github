@@ -43,14 +43,14 @@
 
 
 
-## 🚀<img src="![image](https://github.com/user-attachments/assets/29a50ddb-84f4-462c-809c-80667521ed47)"  width="300" />
- Our Mission
+## ⚡ Our Mission
 
 Empowering industries with cutting-edge AI technologies for real-world applications.
 
 ---
 
-## 🌟 Core Projects
+## ⚡![image](https://github.com/user-attachments/assets/a3ff4de5-6aeb-4eae-8082-6abd17dd8683)
+ Core Projects
 
 Welcome to the **AID Edge Inc. Lab** repository for cutting-edge AI-driven solutions. This repository contains the core projects developed by our team, focusing on:
 
