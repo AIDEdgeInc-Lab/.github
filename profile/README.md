@@ -9,28 +9,20 @@
 
 
 <p align="center">
-  <a href="#our-mission"><strong>Our Mission</strong></a> •
-  <a href="#core-projects"><strong>Core Projects</strong></a> •
-  <a href="#how-to-get-started"><strong>How to Get Started</strong></a> •
-  <a href="#contact-us"><strong>Contact Us</strong></a>
-</p>
-
-
-<p align="center">
   <a href="https://github.com/AIDEdgeInc-Lab/Documentation-and-Learning">
-    <img src="https://img.shields.io/badge/Documentation%20and%20Learning-Light%20Purple?style=for-the-badge&color=D8BFD8" alt="Documentation and Learning">
+    <img src="https://img.shields.io/badge/Documentation%20and%20Learning-Pastel%20Lavender?style=for-the-badge&color=E6E6FA" alt="Documentation and Learning">
   </a>
   <a href="https://github.com/AIDEdgeInc-Lab/Supporting-Tools">
-    <img src="https://img.shields.io/badge/Supporting%20Tools-Light%20Blue?style=for-the-badge&color=ADD8E6" alt="Supporting Tools">
+    <img src="https://img.shields.io/badge/Supporting%20Tools-Pastel%20Sky%20Blue?style=for-the-badge&color=CCE7FF" alt="Supporting Tools">
   </a>
   <a href="https://github.com/AIDEdgeInc-Lab/HybridML-Network-Models">
-    <img src="https://img.shields.io/badge/HybridML%20Network%20Models-Light%20Teal?style=for-the-badge&color=AFEEEE" alt="HybridML Network Models">
+    <img src="https://img.shields.io/badge/HybridML%20Network%20Models-Pastel%20Mint?style=for-the-badge&color=CCFFE5" alt="HybridML Network Models">
   </a>
   <a href="https://github.com/AIDEdgeInc-Lab/TinyML-Optimization">
-    <img src="https://img.shields.io/badge/TinyML%20Optimization-Light%20Green?style=for-the-badge&color=98FB98" alt="TinyML Optimization">
+    <img src="https://img.shields.io/badge/TinyML%20Optimization-Pastel%20Peach?style=for-the-badge&color=FFE5CC" alt="TinyML Optimization">
   </a>
   <a href="https://github.com/AIDEdgeInc-Lab/Edge-AI-Platform">
-    <img src="https://img.shields.io/badge/Edge%20AI%20Platform-Light%20Gray?style=for-the-badge&color=D3D3D3" alt="Edge AI Platform">
+    <img src="https://img.shields.io/badge/Edge%20AI%20Platform-Pastel%20Gray?style=for-the-badge&color=F0F0F0" alt="Edge AI Platform">
   </a>
 </p>
 
