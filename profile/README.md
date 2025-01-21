@@ -207,25 +207,23 @@ We value your feedback and are happy to assist with any questions or requirement
 
 ---
 
+
 <p align="center">
   <strong>🌟 Follow us on:</strong>
 </p>
-
 <p align="center">
-  <a href="https://github.com/AIDEdgeInc-Lab/Documentation-and-Learning">
-    <img src="https://img.shields.io/badge/Documentation%20and%20Learning-Pastel%20Lavender?style=for-the-badge&color=E6E6FA" alt="Documentation and Learning">
+  <a href="https://www.linkedin.com/company/aid-edge-inc">
+    <img src="https://img.shields.io/badge/LinkedIn-AID%20Edge%20Inc.-Pastel%20Blue?style=for-the-badge&color=CCE7FF" alt="LinkedIn">
   </a>
-  <a href="https://github.com/AIDEdgeInc-Lab/Supporting-Tools">
-    <img src="https://img.shields.io/badge/Supporting%20Tools-Pastel%20Blue?style=for-the-badge&color=CCE7FF" alt="Supporting Tools">
-  </a>
-  <a href="https://github.com/AIDEdgeInc-Lab/HybridML-Network-Models">
-    <img src="https://img.shields.io/badge/HybridML%20Network%20Models-Pastel%20Mint?style=for-the-badge&color=CCFFE5" alt="HybridML Network Models">
-  </a>
-  <a href="https://github.com/AIDEdgeInc-Lab/TinyML-Optimization">
-    <img src="https://img.shields.io/badge/TinyML%20Optimization-Pastel%20Peach?style=for-the-badge&color=FFE5CC" alt="TinyML Optimization">
-  </a>
-  <a href="https://github.com/AIDEdgeInc-Lab/Edge-AI-Platform">
-    <img src="https://img.shields.io/badge/Edge%20AI%20Platform-Pastel%20Gray?style=for-the-badge&color=F0F0F0" alt="Edge AI Platform">
+  <a href="https://github.com/AIDEdgeInc-Lab">
+    <img src="https://img.shields.io/badge/GitHub-AID%20Edge%20Inc.-Pastel%20Gray?style=for-the-badge&color=F0F0F0" alt="GitHub">
   </a>
 </p>
+
+<hr>
+
+<p align="center">
+  <i>Last Updated: January 20, 2025</i>
+</p>
+
 
