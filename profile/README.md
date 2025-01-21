@@ -216,9 +216,7 @@ We value your feedback and are happy to assist with any questions or requirement
 
 
 
-<p align="center">
-  ![image](https://github.com/user-attachments/assets/333d0906-5ffa-40e5-9c8e-d19637f71cb1)  Follow us on:</strong>
-</p>
+<p align="center">✨  Follow us on:</strong> </p> 
 <p align="center">
   <a href="https://www.linkedin.com/company/aid-edge-inc">
     <img src="https://img.shields.io/badge/LinkedIn-AID%20Edge%20Inc.-Pastel%20Blue?style=for-the-badge&color=CCE7FF" alt="LinkedIn">
