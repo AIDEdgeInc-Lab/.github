@@ -18,18 +18,19 @@
 
 <p align="center">
   <a href="#our-mission">
-    <img src="https://img.shields.io/badge/Our%20Mission-Pastel%20Blue?style=flat-square&color=87CEEB" alt="Our Mission">
+    <img src="https://img.shields.io/badge/Our%20Mission-Light%20Purple?style=flat-square&color=D8BFD8" alt="Our Mission">
   </a>
   <a href="#core-projects">
-    <img src="https://img.shields.io/badge/Core%20Projects-Pastel%20Green?style=flat-square&color=98FB98" alt="Core Projects">
+    <img src="https://img.shields.io/badge/Core%20Projects-Light%20Blue?style=flat-square&color=ADD8E6" alt="Core Projects">
   </a>
   <a href="#how-to-get-started">
-    <img src="https://img.shields.io/badge/How%20to%20Get%20Started-Pastel%20Orange?style=flat-square&color=FFDAB9" alt="How to Get Started">
+    <img src="https://img.shields.io/badge/How%20to%20Get%20Started-Light%20Pink?style=flat-square&color=FFB6C1" alt="How to Get Started">
   </a>
   <a href="#contact-us">
-    <img src="https://img.shields.io/badge/Contact%20Us-Pastel%20Pink?style=flat-square&color=FFB6C1" alt="Contact Us">
+    <img src="https://img.shields.io/badge/Contact%20Us-Light%20Teal?style=flat-square&color=AFEEEE" alt="Contact Us">
   </a>
 </p>
+
 
 
 
