@@ -43,8 +43,7 @@
 
 
 
-##![image](https://github.com/user-attachments/assets/79eb2d77-f70b-4fd2-8300-44d59031030c)
-Our Mission
+##![image](https://github.com/user-attachments/assets/79eb2d77-f70b-4fd2-8300-44d59031030c) ## Our Mission
 
 Empowering industries with cutting-edge AI technologies for real-world applications.
 
