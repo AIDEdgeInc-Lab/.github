@@ -217,7 +217,7 @@ We value your feedback and are happy to assist with any questions or requirement
 
 
 <p align="center">
-  <strong>![image](https://github.com/user-attachments/assets/b09aff08-ed61-4da5-a902-ea9a57b07cf4)  Follow us on:</strong>
+  ![image](https://github.com/user-attachments/assets/333d0906-5ffa-40e5-9c8e-d19637f71cb1)  Follow us on:</strong>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/company/aid-edge-inc">
