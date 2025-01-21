@@ -42,13 +42,15 @@
 ---
 
 
-
+<div align="center">
 ## ![image](https://github.com/user-attachments/assets/bbb10420-1491-4b98-a5b0-4bb62605229e)  Our Mission
 
-Empowering industries with cutting-edge AI technologies for real-world applications.
 
+Empowering industries with cutting-edge AI technologies for real-world applications.
+</div>
 ---
 
+<div align="center">
 ## ![image](https://github.com/user-attachments/assets/7ba65a5f-3676-4b04-a401-f7bd694497a5)  Core Projects
 
 Welcome to the **AID Edge Inc. Lab** repository for cutting-edge AI-driven solutions. This repository contains the core projects developed by our team, focusing on:
@@ -57,10 +59,12 @@ Welcome to the **AID Edge Inc. Lab** repository for cutting-edge AI-driven solut
 - **Tiny ML Optimization**: Lightweight machine learning models for resource-constrained environments.
 - **Hybrid ML Frameworks**: Seamless integration between edge and cloud for hybrid machine learning systems.
 
-
+</div>
 
 ---
 
+<div align="center">
+  
 ## ![image](https://github.com/user-attachments/assets/c81bf047-020c-4219-bd98-868e267af446)  Projects Overview
 
 ### [Edge AI Solutions](Edge-AI-Solutions/README.md)
@@ -71,6 +75,7 @@ This project focuses on:
 
 Explore the project folder: [Edge-AI-Solutions](Edge-AI-Solutions/)
 
+</div>
 ---
 
 
