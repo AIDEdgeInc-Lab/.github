@@ -51,7 +51,7 @@ Empowering industries with cutting-edge AI technologies for real-world applicati
 ---
 
 
-## ![image](https://github.com/user-attachments/assets/157e2fad-5086-4904-a30a-a4aa2063300d)  Core Projects
+## ![image](https://github.com/user-attachments/assets/f43525b1-5776-4894-85f1-0c7db11fe97b)  Core Projects
 
 Welcome to the **AID Edge Inc. Lab** repository for cutting-edge AI-driven solutions. This repository contains the core projects developed by our team, focusing on:
 
@@ -184,7 +184,7 @@ python hybrid_inference.py --input data/input.json
 
 ---
 
-## ![image](https://github.com/user-attachments/assets/8c30078c-e32b-4242-8ad5-ff75e40b271a) Transparency and Feedback
+##  ![image](https://github.com/user-attachments/assets/157e2fad-5086-4904-a30a-a4aa2063300d)  Transparency and Feedback
 
 At AID Edge Inc., we believe in providing transparency to our customers by sharing the code and workflows behind our cutting-edge AI solutions. While the code is accessible for viewing, only our internal team works on developing and maintaining these projects.
 
