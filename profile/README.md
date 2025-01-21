@@ -65,7 +65,7 @@ Welcome to the **AID Edge Inc. Lab** repository for cutting-edge AI-driven solut
 
 
   
-## ![image](https://github.com/user-attachments/assets/c81bf047-020c-4219-bd98-868e267af446)  Projects Overview
+## ![image](https://github.com/user-attachments/assets/035295a4-4bdf-4786-b45e-1b548933acb1)  Projects Overview
 
 ### [Edge AI Solutions](Edge-AI-Solutions/README.md)
 This project focuses on:
