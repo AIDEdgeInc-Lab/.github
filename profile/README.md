@@ -43,13 +43,13 @@
 
 
 
-## ![image](https://github.com/user-attachments/assets/79eb2d77-f70b-4fd2-8300-44d59031030c) Our Mission
+## ⚡ Our Mission
 
 Empowering industries with cutting-edge AI technologies for real-world applications.
 
 ---
 
-## ![image](https://github.com/user-attachments/assets/0684fbd3-f417-4f06-95ff-459f1a345cbc)  Core Projects
+## ✨ Core Projects
 
 Welcome to the **AID Edge Inc. Lab** repository for cutting-edge AI-driven solutions. This repository contains the core projects developed by our team, focusing on:
 
@@ -61,7 +61,7 @@ Welcome to the **AID Edge Inc. Lab** repository for cutting-edge AI-driven solut
 
 ---
 
-## Projects Overview
+## 🌟 Projects Overview
 
 ### [Edge AI Solutions](Edge-AI-Solutions/README.md)
 This project focuses on:
@@ -97,12 +97,12 @@ Explore the project folder: [Hybrid-ML-Frameworks](Hybrid-ML-Frameworks/)
 
 ---
 
-## How to Run the Projects
+## ▶️ How to Run the Projects
 
 Follow the steps below to set up the environment and run the workflows for each project:
 
 
-### Step 1: Clone the Repository
+### <span style="color: #A3E4D7;">☑️</span>  Step 1: Clone the Repository
 Clone this repository to your local machine:
 
 git clone https://github.com/AIDEdgeInc-Lab/Core-Projects.git
@@ -110,7 +110,7 @@ git clone https://github.com/AIDEdgeInc-Lab/Core-Projects.git
 
 ---
 
-### Step 2: Set Up the Environment
+### <span style="color: #FFC1CC;">☑️</span>  Step 2: Set Up the Environment
 
 Install required dependencies:
 
@@ -127,7 +127,7 @@ export MODEL_PATH=/path/to/model
 
 ---
 
-### Step 3: Run Individual Projects
+### <span style="color: #E6E6FA;">☑️</span>  Step 3: Run Individual Projects
 
 #### Edge AI Solutions
 
@@ -179,7 +179,7 @@ python hybrid_inference.py --input data/input.json
 
 ---
 
-## Transparency and Feedback
+## 💬 Transparency and Feedback
 
 At AID Edge Inc., we believe in providing transparency to our customers by sharing the code and workflows behind our cutting-edge AI solutions. While the code is accessible for viewing, only our internal team works on developing and maintaining these projects.
 
