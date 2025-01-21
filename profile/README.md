@@ -205,7 +205,7 @@ We value your feedback and are happy to assist with any questions or requirement
 
 ---
 
-<p align="center">💡 Want to learn more? Visit our [website](https://www.aidedgeinc.com), connect with us on [LinkedIn](https://www.linkedin.com/company/aid-edge-inc), or reach out at [info@aidedgeinc.com](mailto:info@aidedgeinc.com).</p>
+---
 
 <p align="center">
   🌟 Follow us on:
