@@ -65,7 +65,7 @@ Welcome to the **AID Edge Inc. Lab** repository for cutting-edge AI-driven solut
 
 
   
-##  ![image](https://github.com/user-attachments/assets/7868b320-bc13-4065-85a8-073dd6698163)  Projects Overview
+##  ![image](https://github.com/user-attachments/assets/839ca94d-0488-44c7-bfa5-2009d8b48d79)  Projects Overview
 
 ### [Edge AI Solutions](Edge-AI-Solutions/README.md)
 This project focuses on:
@@ -107,7 +107,7 @@ Explore the project folder: [Hybrid-ML-Frameworks](Hybrid-ML-Frameworks/)
 Follow the steps below to set up the environment and run the workflows for each project:
 
 
-### ![image](https://github.com/user-attachments/assets/f3745ebf-9ee3-409e-98b3-26c054e7c2c2) Step 1: Clone the Repository
+### ![image](https://github.com/user-attachments/assets/e9054e17-b0ea-4707-9ada-eb044e29f57b)  Step 1: Clone the Repository
 Clone this repository to your local machine:
 
 git clone https://github.com/AIDEdgeInc-Lab/Core-Projects.git
@@ -115,7 +115,7 @@ git clone https://github.com/AIDEdgeInc-Lab/Core-Projects.git
 
 ---
 
-### ![image](https://github.com/user-attachments/assets/bef9f9a1-0011-451b-8b37-375cb0fee695) Step 2: Set Up the Environment
+### ![image](https://github.com/user-attachments/assets/7be563b8-0096-4764-8e8c-544cb7b8a353) Step 2: Set Up the Environment
 
 Install required dependencies:
 
@@ -132,7 +132,7 @@ export MODEL_PATH=/path/to/model
 
 ---
 
-### ![image](https://github.com/user-attachments/assets/4539068e-4558-4c3e-92ff-8841fc72dbc4) Step 3: Run Individual Projects
+### ![image](https://github.com/user-attachments/assets/ad311a81-2a07-4a58-ac3e-2a88276dd437)  Step 3: Run Individual Projects
 
 #### Edge AI Solutions
 
@@ -201,7 +201,7 @@ These repositories are actively maintained and updated by our in-house team. For
 
 ---
 
-## ![image](https://github.com/user-attachments/assets/22896e8c-3c4f-417a-95a9-a0d45f07b16c) Contact
+##  ![image](https://github.com/user-attachments/assets/7868b320-bc13-4065-85a8-073dd6698163)  Contact
 
 For questions, feedback, or to learn more, reach out to us:
 
