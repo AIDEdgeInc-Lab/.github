@@ -43,13 +43,13 @@
 
 
 
-## ⚡ Our Mission
+## 🚀 Our Mission
 
 Empowering industries with cutting-edge AI technologies for real-world applications.
 
 ---
 
-## ✨ Core Projects
+## 🎯 Core Projects
 
 Welcome to the **AID Edge Inc. Lab** repository for cutting-edge AI-driven solutions. This repository contains the core projects developed by our team, focusing on:
 
@@ -61,7 +61,7 @@ Welcome to the **AID Edge Inc. Lab** repository for cutting-edge AI-driven solut
 
 ---
 
-## 🌟 Projects Overview
+## ✨ Projects Overview
 
 ### [Edge AI Solutions](Edge-AI-Solutions/README.md)
 This project focuses on:
@@ -102,7 +102,7 @@ Explore the project folder: [Hybrid-ML-Frameworks](Hybrid-ML-Frameworks/)
 Follow the steps below to set up the environment and run the workflows for each project:
 
 
-### <span style="color: #A3E4D7;">☑️</span>  Step 1: Clone the Repository
+###  Step 1: Clone the Repository
 Clone this repository to your local machine:
 
 git clone https://github.com/AIDEdgeInc-Lab/Core-Projects.git
@@ -110,7 +110,7 @@ git clone https://github.com/AIDEdgeInc-Lab/Core-Projects.git
 
 ---
 
-### <span style="color: #FFC1CC;">☑️</span>  Step 2: Set Up the Environment
+###  Step 2: Set Up the Environment
 
 Install required dependencies:
 
@@ -127,7 +127,7 @@ export MODEL_PATH=/path/to/model
 
 ---
 
-### <span style="color: #E6E6FA;">☑️</span>  Step 3: Run Individual Projects
+###  Step 3: Run Individual Projects
 
 #### Edge AI Solutions
 
