@@ -65,7 +65,7 @@ Welcome to the **AID Edge Inc. Lab** repository for cutting-edge AI-driven solut
 
 
   
-## ![image](https://github.com/user-attachments/assets/035295a4-4bdf-4786-b45e-1b548933acb1)  Projects Overview
+##  ![image](https://github.com/user-attachments/assets/7868b320-bc13-4065-85a8-073dd6698163)  Projects Overview
 
 ### [Edge AI Solutions](Edge-AI-Solutions/README.md)
 This project focuses on:
@@ -102,7 +102,7 @@ Explore the project folder: [Hybrid-ML-Frameworks](Hybrid-ML-Frameworks/)
 
 ---
 
-## ![image](https://github.com/user-attachments/assets/98312a72-bf01-45e8-8401-7f464dfa1772)  How to Run the Projects
+## ![image](https://github.com/user-attachments/assets/035295a4-4bdf-4786-b45e-1b548933acb1)  How to Run the Projects
 
 Follow the steps below to set up the environment and run the workflows for each project:
 
