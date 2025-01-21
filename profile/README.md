@@ -1,5 +1,10 @@
-# AID EDGE INC. - CORE PROJECTS
-*Advancing the Future of AI-Driven Solutions*
+<h1 align="center">AID EDGE INC. - LAB</h1>
+<p align="center"><i>Advancing the Future of AI-Driven Solutions</i></p>
+
+<p align="center">
+  Empowering industries with cutting-edge AI technologies for real-world applications.
+</p>
+
 
 
 <p align="center">
