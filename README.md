@@ -2,7 +2,7 @@
 <p align="center"><i>Advancing the Future of AI-Driven Solutions</i></p>
 
 <p align="center">
-  Empowering industries with cutting-edge AI technologies for real-world applications.
+  Relentlessly Pushing the Boundaries of Connectivity, with Responsibility and Purpose.
 </p>
 
 
@@ -58,6 +58,9 @@ Welcome to the **AID Edge Inc. Lab** repository for cutting-edge AI-driven solut
 - **Edge AI Solutions**: Real-time AI inference and deployment on edge devices.
 - **Tiny ML Optimization**: Lightweight machine learning models for resource-constrained environments.
 - **Hybrid ML Frameworks**: Seamless integration between edge and cloud for hybrid machine learning systems.
+- **Documentation and Learning**: Tutorials and step-by-step instructions for understanding AI concepts and tools.
+- **Supporting Tools**: Scripts and utilities for data preparation, model evaluation, and deployment.
+
 
 
 
@@ -73,7 +76,8 @@ This project focuses on:
 - Deployment-ready pre-trained models.
 - Efficient scripts for edge-specific training and fine-tuning.
 
-Explore the project folder: [Edge-AI-Solutions](Edge-AI-Solutions/)
+Explore the project folder: [Edge AI Solutions](https://github.com/AIDEdgeInc-Lab/Edge-AI-Platform)
+
 
 
 ---
@@ -85,7 +89,12 @@ This project provides tools and resources for:
 - Model compression, quantization, and pruning.
 - Benchmarks for evaluating performance on edge hardware.
 
-Explore the project folder: [Tiny ML Optimization](Tiny%20ML%20Optimization/)
+
+
+Explore the project folder: [Tiny ML Optimization](https://github.com/AIDEdgeInc-Lab/TinyML-Optimization)
+
+
+
 
 
 ---
@@ -96,7 +105,7 @@ This project integrates edge and cloud intelligence for:
 - Scripts for cloud-edge integration.
 - Models optimized for bandwidth and latency efficiency.
 
-Explore the project folder: [Hybrid-ML-Frameworks](Hybrid-ML-Frameworks/)
+Explore the project folder: [Hybrid ML Frameworks](https://github.com/AIDEdgeInc-Lab/HybridML-Network-Models)
 
 
 
@@ -202,6 +211,34 @@ These repositories are actively maintained and updated by our in-house team. For
 
 ---
 
+
+## ![image](https://github.com/user-attachments/assets/89a2c1f3-347c-4290-a003-716e9b155d8c)  Documentation and Learning
+
+Explore in-depth guides and tutorials to understand and use our solutions effectively:
+
+- **Getting Started:** Learn how to set up and begin using our solutions.
+- **FAQs:** Answers to common questions about our tools and platforms.
+- **Detailed Guides:** Tutorials and step-by-step instructions for each project.
+
+📖 Access our full documentation [here](https://github.com/AIDEdgeInc-Lab/Documentation-and-Learning).
+
+---
+
+
+## ![image](https://github.com/user-attachments/assets/71b21b12-f55c-4813-847c-4526d794d96e)  Supporting Tools
+
+Discover additional tools and resources that can enhance your AI development process:
+
+- **Data Preparation Tools:** Automate preprocessing and formatting of datasets.
+- **Model Evaluation Scripts:** Benchmark and evaluate model performance.
+- **Deployment Scripts:** Simplify deployment workflows for edge and cloud environments.
+
+🔗 Explore the tools repository [here](https://github.com/AIDEdgeInc-Lab/Supporting-Tools).
+
+
+
+---
+
 ##  ![image](https://github.com/user-attachments/assets/7868b320-bc13-4065-85a8-073dd6698163)  Contact
 
 For questions, feedback, or to learn more, reach out to us:
@@ -218,6 +255,7 @@ We value your feedback and are happy to assist with any questions or requirement
 
 
 <p align="center">✨  Follow us on:</strong> </p> 
+
 
 <p align="center">
   <a href="https://www.aidedges.com">
