@@ -206,7 +206,7 @@ These repositories are actively maintained and updated by our in-house team. For
 ---
 
 
-## 📚 Documentation and Learning
+## ![image](https://github.com/user-attachments/assets/89a2c1f3-347c-4290-a003-716e9b155d8c)  Documentation and Learning
 
 Explore in-depth guides and tutorials to understand and use our solutions effectively:
 
@@ -219,7 +219,7 @@ Explore in-depth guides and tutorials to understand and use our solutions effect
 ---
 
 
-## 🛠 Supporting Tools
+## ![image](https://github.com/user-attachments/assets/71b21b12-f55c-4813-847c-4526d794d96e)  Supporting Tools
 
 Discover additional tools and resources that can enhance your AI development process:
 
