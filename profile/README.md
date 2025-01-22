@@ -207,7 +207,7 @@ These repositories are actively maintained and updated by our in-house team. For
 For questions, feedback, or to learn more, reach out to us:
 
 - 📧 **Email**: [info@aidedgeinc.com](mailto:info@aidedgeinc.com)
-- 🌐 **Website**: [www.aidedgeinc.com](https://www.aidedgeinc.com)
+- 🌐 **Website**: [www.aidedges.com](https://www.aidedges.com)
 
 We value your feedback and are happy to assist with any questions or requirements!
 
