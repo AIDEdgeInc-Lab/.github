@@ -302,7 +302,7 @@ We value your feedback and are happy to assist with any questions or requirement
     <img src="https://img.shields.io/badge/GitHub-AID%20Edge%20Inc.-Pastel%20Gray?style=for-the-badge&color=F0F0F0" alt="GitHub">
   </a>
   <a href="mailto:info@aidedgeinc.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Us-Pastel%20Pink?style=for-the-badge&color=FFC1CC" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact%20Us-Pastel%20Pink?style=for-the-badge&color=FFE5CC" alt="Email">
   </a>
   
 </p>
