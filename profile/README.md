@@ -58,6 +58,9 @@ Welcome to the **AID Edge Inc. Lab** repository for cutting-edge AI-driven solut
 - **Edge AI Solutions**: Real-time AI inference and deployment on edge devices.
 - **Tiny ML Optimization**: Lightweight machine learning models for resource-constrained environments.
 - **Hybrid ML Frameworks**: Seamless integration between edge and cloud for hybrid machine learning systems.
+- **Documentation and Learning**: Tutorials and step-by-step instructions for understanding AI concepts and tools.
+- **Supporting Tools**: Scripts and utilities for data preparation, model evaluation, and deployment.
+
 
 
 
@@ -202,6 +205,34 @@ These repositories are actively maintained and updated by our in-house team. For
 
 ---
 
+
+## 📚 Documentation and Learning
+
+Explore in-depth guides and tutorials to understand and use our solutions effectively:
+
+- **Getting Started:** Learn how to set up and begin using our solutions.
+- **FAQs:** Answers to common questions about our tools and platforms.
+- **Detailed Guides:** Tutorials and step-by-step instructions for each project.
+
+📖 Access our full documentation [here](https://github.com/AIDEdgeInc-Lab/Documentation-and-Learning).
+
+---
+
+
+## 🛠 Supporting Tools
+
+Discover additional tools and resources that can enhance your AI development process:
+
+- **Data Preparation Tools:** Automate preprocessing and formatting of datasets.
+- **Model Evaluation Scripts:** Benchmark and evaluate model performance.
+- **Deployment Scripts:** Simplify deployment workflows for edge and cloud environments.
+
+🔗 Explore the tools repository [here](https://github.com/AIDEdgeInc-Lab/Supporting-Tools).
+
+
+
+---
+
 ##  ![image](https://github.com/user-attachments/assets/7868b320-bc13-4065-85a8-073dd6698163)  Contact
 
 For questions, feedback, or to learn more, reach out to us:
@@ -218,6 +249,16 @@ We value your feedback and are happy to assist with any questions or requirement
 
 
 <p align="center">✨  Follow us on:</strong> </p> 
+
+<p align="center">
+  <a href="https://github.com/AIDEdgeInc-Lab/Documentation-and-Learning">
+    <img src="https://img.shields.io/badge/Documentation-Pastel%20Lavender?style=for-the-badge&color=E6E6FA" alt="Documentation">
+  </a>
+  <a href="https://github.com/AIDEdgeInc-Lab/Supporting-Tools">
+    <img src="https://img.shields.io/badge/Supporting%20Tools-Pastel%20Sky%20Blue?style=for-the-badge&color=CCE7FF" alt="Supporting Tools">
+  </a>
+</p>
+
 
 <p align="center">
   <a href="https://www.aidedges.com">
