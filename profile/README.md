@@ -108,6 +108,7 @@ Follow the steps below to set up the environment and run the workflows for each 
 
 
 - **Step 1: Clone the Repository**
+
 Clone this repository to your local machine:
 
 git clone https://github.com/AIDEdgeInc-Lab/Core-Projects.git
