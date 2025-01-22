@@ -76,7 +76,8 @@ This project focuses on:
 - Deployment-ready pre-trained models.
 - Efficient scripts for edge-specific training and fine-tuning.
 
-Explore the project folder: [Edge-AI-Solutions](Edge-AI-Solutions/)
+Explore the project folder: [Edge-AI-Solutions](Projects/Edge-AI-Solutions/)
+
 
 
 ---
