@@ -2,7 +2,7 @@
 <p align="center"><i>Advancing the Future of AI-Driven Solutions</i></p>
 
 <p align="center">
-  Empowering industries with cutting-edge AI technologies for real-world applications.
+  Relentlessly Pushing the Boundaries of Connectivity, with Responsibility and Purpose.
 </p>
 
 
