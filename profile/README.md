@@ -107,7 +107,7 @@ Explore the project folder: [Hybrid-ML-Frameworks](Hybrid-ML-Frameworks/)
 Follow the steps below to set up the environment and run the workflows for each project:
 
 
-###  - Step 1: Clone the Repository
+- **Step 1: Clone the Repository**
 Clone this repository to your local machine:
 
 git clone https://github.com/AIDEdgeInc-Lab/Core-Projects.git
@@ -115,7 +115,7 @@ git clone https://github.com/AIDEdgeInc-Lab/Core-Projects.git
 
 ---
 
-###  - Step 2: Set Up the Environment
+- **Step 2: Set Up the Environment**
 
 Install required dependencies:
 
@@ -132,7 +132,7 @@ export MODEL_PATH=/path/to/model
 
 ---
 
-### - Step 3: Run Individual Projects
+- **Step 3: Run Individual Projects**
 
 #### Edge AI Solutions
 
