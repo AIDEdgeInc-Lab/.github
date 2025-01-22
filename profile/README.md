@@ -76,7 +76,7 @@ This project focuses on:
 - Deployment-ready pre-trained models.
 - Efficient scripts for edge-specific training and fine-tuning.
 
-Explore the project folder: [Edge-AI-Solutions]([Projects](https://github.com/AIDEdgeInc-Lab/Edge-AI-Solutions/)
+Explore the project folder: [Edge AI Solutions](https://github.com/AIDEdgeInc-Lab/Edge-AI-Platform)
 
 
 
@@ -89,7 +89,12 @@ This project provides tools and resources for:
 - Model compression, quantization, and pruning.
 - Benchmarks for evaluating performance on edge hardware.
 
-Explore the project folder: [Tiny ML Optimization]([Tiny%20ML%20Optimization](https://github.com/AIDEdgeInc-Lab/Tiny ML Optimization/)
+
+
+Explore the project folder: [Tiny ML Optimization](https://github.com/AIDEdgeInc-Lab/TinyML-Optimization)
+
+
+
 
 
 ---
@@ -100,7 +105,7 @@ This project integrates edge and cloud intelligence for:
 - Scripts for cloud-edge integration.
 - Models optimized for bandwidth and latency efficiency.
 
-Explore the project folder: [Hybrid-ML-Frameworks](Hybrid-ML-Frameworks/)
+Explore the project folder: [Hybrid ML Frameworks](https://github.com/AIDEdgeInc-Lab/HybridML-Network-Models)
 
 
 
