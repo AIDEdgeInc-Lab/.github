@@ -79,6 +79,14 @@ This project focuses on:
 Explore the project folder: [Edge AI Solutions](https://github.com/AIDEdgeInc-Lab/Edge-AI-Platform)
 
 
+- **[Edge AI - Satellite](https://github.com/AIDEdgeInc-Lab/edge-ai/satellite)**:
+  Real-time AI inference for satellite data at the edge.
+- **[Edge AI - Wireless](https://github.com/AIDEdgeInc-Lab/edge-ai/wireless)**:
+  AI solutions for wireless communication on edge devices.
+- **[Edge AI - Wireline](https://github.com/AIDEdgeInc-Lab/edge-ai/wireline)**:
+  Edge-based AI for wireline communication systems.
+
+  
 
 ---
 
@@ -92,6 +100,13 @@ This project provides tools and resources for:
 
 
 Explore the project folder: [Tiny ML Optimization](https://github.com/AIDEdgeInc-Lab/TinyML-Optimization)
+
+- **[TinyML - Satellite](https://github.com/AIDEdgeInc-Lab/tinyml/satellite)**:
+  AI solutions for satellite data using TinyML models.
+- **[TinyML - Wireless](https://github.com/AIDEdgeInc-Lab/tinyml/wireless)**:
+  Lightweight models optimized for wireless systems.
+- **[TinyML - Wireline](https://github.com/AIDEdgeInc-Lab/tinyml/wireline)**:
+  TinyML frameworks for wireline communication.
 
 
 
@@ -107,6 +122,25 @@ This project integrates edge and cloud intelligence for:
 
 Explore the project folder: [Hybrid ML Frameworks](https://github.com/AIDEdgeInc-Lab/HybridML-Network-Models)
 
+- **[Hybrid ML - Satellite](https://github.com/AIDEdgeInc-Lab/hybrid-ml/satellite)**:
+  Combining edge and cloud intelligence for satellite systems.
+- **[Hybrid ML - Wireless](https://github.com/AIDEdgeInc-Lab/hybrid-ml/wireless)**:
+  Hybrid solutions for wireless communication.
+- **[Hybrid ML - Wireline](https://github.com/AIDEdgeInc-Lab/hybrid-ml/wireline)**:
+  Hybrid AI models for wireline systems.
+
+  ---
+
+## ![image](https://github.com/user-attachments/assets/480f6722-c59a-44c0-a71f-4943558a5566)  How to Navigate
+
+Each project is divided into three key sections:
+1. **Satellite**: AI solutions focused on satellite systems.
+2. **Wireless**: Models and tools for wireless communication.
+3. **Wireline**: AI frameworks for wireline communication.
+
+Visit the links above to explore each project.
+
+---
 
 
 ---
