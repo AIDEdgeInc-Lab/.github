@@ -250,15 +250,6 @@ We value your feedback and are happy to assist with any questions or requirement
 
 <p align="center">✨  Follow us on:</strong> </p> 
 
-<p align="center">
-  <a href="https://github.com/AIDEdgeInc-Lab/Documentation-and-Learning">
-    <img src="https://img.shields.io/badge/Documentation-Pastel%20Lavender?style=for-the-badge&color=E6E6FA" alt="Documentation">
-  </a>
-  <a href="https://github.com/AIDEdgeInc-Lab/Supporting-Tools">
-    <img src="https://img.shields.io/badge/Supporting%20Tools-Pastel%20Sky%20Blue?style=for-the-badge&color=CCE7FF" alt="Supporting Tools">
-  </a>
-</p>
-
 
 <p align="center">
   <a href="https://www.aidedges.com">
