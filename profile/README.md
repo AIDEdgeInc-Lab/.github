@@ -39,7 +39,7 @@
 
 <p align="center">💡 Empowering AI. Transforming Industries. 🚀
 
-Welcome to the Quantum Intelligence Lab, where we redefine the possibilities of AI by delivering next-generation solutions to empower the world’s most ambitious enterprises. Our expertise spans scalable, real-time edge AI frameworks that revolutionize connectivity with sub-millisecond latency, NanoML acceleration that brings unprecedented efficiency to IoT and embedded systems, and FusionAI adaptive networks that transform hybrid learning with unmatched scalability and intelligence. We don’t just develop technology—we create the future, delivering innovations that drive industries like telecommunications and aerospace to the next frontier.
+**Welcome to the Quantum Intelligence Lab**, where we redefine the possibilities of AI by delivering next-generation solutions to empower the world’s most ambitious enterprises. Our expertise spans scalable, real-time edge AI frameworks that revolutionize connectivity with sub-millisecond latency, NanoML acceleration that brings unprecedented efficiency to IoT and embedded systems, and FusionAI adaptive networks that transform hybrid learning with unmatched scalability and intelligence. We don’t just develop technology—we create the future, delivering innovations that drive industries like telecommunications and aerospace to the next frontier.
 
 </p>
 
