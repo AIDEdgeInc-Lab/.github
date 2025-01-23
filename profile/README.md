@@ -2,7 +2,7 @@
 <p align="center"><i>Advancing the Future of AI-Driven Solutions</i></p>
 
 <p align="center">
-  ✨💫⭐️ Relentlessly Pushing the Boundaries of Connectivity, with Responsibility and Purpose. ✨💫⭐️
+ Relentlessly Pushing the Boundaries of Connectivity, with Responsibility and Purpose. 
 </p>
 
 
@@ -284,7 +284,7 @@ We value your feedback and are happy to assist with any questions or requirement
 
 
 
-<p align="center">✨  Follow us on:</strong> </p> 
+<p align="center"> ✨💫⭐️   Follow us on:  ✨💫⭐️ </strong> </p> 
 
 
 <p align="center">
