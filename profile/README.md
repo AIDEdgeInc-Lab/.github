@@ -5,12 +5,9 @@
  Relentlessly Pushing the Boundaries of Connectivity, with Responsibility and Purpose. 
 </p>
 
-
-
 <p align="center">
   <img src="AEI-Lab-Image1.png" alt="AID Edge Inc. Logo" height="400"/>
 </p>
-
 
 <p align="center">
   <a href="https://github.com/AIDEdgeInc-Lab/Scalable-Real-Time-Edge-AI-Frameworks"><img src="https://img.shields.io/badge/Edge%20AI%20Frameworks-Pastel%20Blue?style=for-the-badge&color=CCE7FF" alt="Edge AI Frameworks" title="Discover solutions for edge AI deployment"></a>
@@ -19,11 +16,6 @@
   <a href="https://github.com/AIDEdgeInc-Lab/Documentation-and-Learning"><img src="https://img.shields.io/badge/Knowledge%20Hub-Pastel%20Lavender?style=for-the-badge&color=FFE5CC" alt="Knowledge Hub" title="Learn about AI concepts and tools"></a>
   <a href="https://github.com/AIDEdgeInc-Lab/Supporting-Tools"><img src="https://img.shields.io/badge/AI%20Enablement%20Suite-Pastel%20Sky%20Blue?style=for-the-badge&color=F0F0F0" alt="AI Enablement Suite" title="Explore tools and resources to accelerate AI development"></a>
 </p>
-
-
-
-
----
 
 ---
 
@@ -35,17 +27,11 @@
 
 ---
 
----
-
-
-
 ## ![image](https://github.com/user-attachments/assets/f78950af-963e-4b28-ac4f-0cc8172e808e)  Our Mission
-
 
 Empowering industries with cutting-edge AI technologies for real-world applications.
 
 ---
-
 
 ## ![image](https://github.com/user-attachments/assets/f43525b1-5776-4894-85f1-0c7db11fe97b)  Core Projects
 
@@ -57,118 +43,42 @@ Welcome to the **AID Edge Inc. Lab** repository for cutting-edge AI-driven solut
 - **Documentation and Learning**: Tutorials and step-by-step instructions for understanding AI concepts and tools.
 - **Supporting Tools**: Scripts and utilities for data preparation, model evaluation, and deployment.
 
-
-
-
 ---
 
+## ![image](https://github.com/user-attachments/assets/839ca94d-0488-44c7-bfa5-2009d8b48d79)  Projects Overview
 
-  
-##  ![image](https://github.com/user-attachments/assets/839ca94d-0488-44c7-bfa5-2009d8b48d79)  Projects Overview
-
-### [Edge AI Solutions](Edge-AI-Platform/README.md)
+### [Edge AI Solutions](https://github.com/AIDEdgeInc-Lab/Scalable-Real-Time-Edge-AI-Frameworks)
 This project focuses on:
 - Real-time AI inference for edge devices.
 - Deployment-ready pre-trained models.
 - Efficient scripts for edge-specific training and fine-tuning.
 
-Explore the project folder: [Edge AI Solutions](https://github.com/AIDEdgeInc-Lab/Edge-AI-Platform)
-
-
-- **[Edge AI - Satellite](https://github.com/AIDEdgeInc-Lab/Edge-AI-Platform/satellite)**:
-  Real-time AI inference for satellite data at the edge.
-- **[Edge AI - Wireless](https://github.com/AIDEdgeInc-Lab/Edge-AI-Platform/wireless)**:
-  AI solutions for wireless communication on edge devices.
-- **[Edge AI - Wireline](https://github.com/AIDEdgeInc-Lab/Edge-AI-Platform/wireline)**:
-  Edge-based AI for wireline communication systems.
-
-  
-
 ---
 
-
-### [Tiny ML Optimization](TinyML-Optimization/README.md)
+### [Tiny ML Optimization](https://github.com/AIDEdgeInc-Lab/TinyML-Optimization)
 This project provides tools and resources for:
 - Optimizing ML models for microcontrollers and other resource-constrained devices.
 - Model compression, quantization, and pruning.
 - Benchmarks for evaluating performance on edge hardware.
 
-
-
-Explore the project folder: [Tiny ML Optimization](https://github.com/AIDEdgeInc-Lab/TinyML-Optimization)
-
-- **[TinyML - Satellite](https://github.com/AIDEdgeInc-Lab/tinyml/satellite)**:
-  AI solutions for satellite data using TinyML models.
-- **[TinyML - Wireless](https://github.com/AIDEdgeInc-Lab/tinyml/wireless)**:
-  Lightweight models optimized for wireless systems.
-- **[TinyML - Wireline](https://github.com/AIDEdgeInc-Lab/tinyml/wireline)**:
-  TinyML frameworks for wireline communication.
-
-
-
-
-
 ---
 
-### [Hybrid ML Frameworks](HybridML-Network-Models/README.md)
+### [Hybrid ML Frameworks](https://github.com/AIDEdgeInc-Lab/HybridML-Network-Models)
 This project integrates edge and cloud intelligence for:
 - Hybrid inference systems that combine local and remote computation.
 - Scripts for cloud-edge integration.
 - Models optimized for bandwidth and latency efficiency.
 
-Explore the project folder: [Hybrid ML Frameworks](https://github.com/AIDEdgeInc-Lab/HybridML-Network-Models)
-
-- **[Hybrid ML - Satellite](https://github.com/AIDEdgeInc-Lab/HybridML-Network-Models/satellite)**:
-  Combining edge and cloud intelligence for satellite systems.
-- **[Hybrid ML - Wireless](https://github.com/AIDEdgeInc-Lab/HybridML-Network-Models/wireless)**:
-  Hybrid solutions for wireless communication.
-- **[Hybrid ML - Wireline](https://github.com/AIDEdgeInc-Lab/HybridML-Network-Models/wireline)**:
-  Hybrid AI models for wireline systems.
-
-  ---
-
-## ![image](https://github.com/user-attachments/assets/480f6722-c59a-44c0-a71f-4943558a5566)  How to Navigate
-
-Each project is divided into three key sections:
-1. **Satellite**: AI solutions focused on satellite systems.
-2. **Wireless**: Models and tools for wireless communication.
-3. **Wireline**: AI frameworks for wireline communication.
-
-Visit the links above to explore each project.
-
 ---
 
-
----
-
-## ![image](https://github.com/user-attachments/assets/035295a4-4bdf-4786-b45e-1b548933acb1)  How to Run the Projects
+## ![image](https://github.com/user-attachments/assets/480f6722-c59a-44c0-a71f-4943558a5566)  How to Run the Projects
 
 Follow the steps below to set up the environment and run the workflows for each project:
 
-
-- **Step 1: Clone the Repository**
-
-Clone this repository to your local machine:
-
+### Step 1: Clone the Repository
+```bash
 git clone https://github.com/AIDEdgeInc-Lab/Core-Projects.git
-
-
----
-
-- **Step 2: Set Up the Environment**
-
-Install required dependencies:
-
-```bash
-pip install -r requirements.txt
 ```
-
-Configure necessary environment variables (if needed):
-```bash
-export DATA_PATH=/path/to/dataset
-export MODEL_PATH=/path/to/model
-```
-
 
 ---
 
