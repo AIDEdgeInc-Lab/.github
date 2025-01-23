@@ -72,6 +72,12 @@ Hybrid AI frameworks for telecom networks:
 
 ---
 
+## How to Navigate
+
+Each project is divided into three domains:
+1. **Satellite**: AI for satellite communication.
+2. **Wireless**: Lightweight AI models for wireless systems.
+3. **Wireline**: Hybrid solutions for wired networks.
 ---
 
 ## ![image](https://github.com/user-attachments/assets/480f6722-c59a-44c0-a71f-4943558a5566)  How to Run the Projects
@@ -87,12 +93,12 @@ git clone https://github.com/AIDEdgeInc-Lab/Core-Projects.git
 
 - **Step 3: Run Individual Projects**
 
-#### Edge AI Solutions
+#### Orbital Intelligence
 
-- Navigate to the Edge-AI-Solutions folder:
+- Navigate to the Scalable-Real-Time-Edge-AI-Frameworks folder:
 
 ```bash
-cd Edge-AI-Solutions
+cd Scalable-Real-Time-Edge-AI-Frameworks
 ```
 - Run the inference script:
 
@@ -100,12 +106,12 @@ cd Edge-AI-Solutions
 python inference.py --input data/sample_input.jpg
 ```
 ---
-#### Tiny ML Optimization
+#### Airwave NanoML
 
-- Navigate to the TinyML-Optimization folder:
+- Navigate to the NanoML-Acceleration-Suite folder:
 
 ```bash
-cd TinyML-Optimization
+cd NanoML-Acceleration-Suite
 ```
 
 - Run the model quantization script:
@@ -114,12 +120,12 @@ cd TinyML-Optimization
 python quantize_model.py --model models/model.tflite
 ```
 ---
-#### Hybrid ML Frameworks
+#### FusionAI Networks
 
-- Navigate to the Hybrid-ML-Frameworks folder:
+- Navigate to the FusionAI-Adaptive-Networks folder:
 
 ```bash
-cd Hybrid-ML-Frameworks
+cd FusionAI-Adaptive-Networks
 ```
 
 - Set up the cloud-edge integration:
@@ -144,9 +150,9 @@ At AID Edge Inc., we believe in providing transparency to our customers by shari
 For Our Customers:
 
 Feel free to explore the code and workflows for our solutions:
-- **Edge AI:** Real-time AI deployment for edge devices.
-- **Tiny ML:** Optimization of models for resource-constrained environments.
-- **Hybrid ML Frameworks:** Integration of edge and cloud intelligence.
+- **Edge AI Frameworks:** Real-time AI deployment for edge devices.
+- **NanoML Suite:** Optimization of models for resource-constrained environments.
+- **FusionAI Networks:** Integration of edge and cloud intelligence.
 
 - Internal Development:
 These repositories are actively maintained and updated by our in-house team. For security and quality purposes, only the internal team has access to modify or develop the codebase.
@@ -155,7 +161,7 @@ These repositories are actively maintained and updated by our in-house team. For
 ---
 
 
-## ![image](https://github.com/user-attachments/assets/89a2c1f3-347c-4290-a003-716e9b155d8c)  Documentation and Learning
+## ![image](https://github.com/user-attachments/assets/89a2c1f3-347c-4290-a003-716e9b155d8c)  Knowledge Hub
 
 Explore in-depth guides and tutorials to understand and use our solutions effectively:
 
@@ -163,12 +169,12 @@ Explore in-depth guides and tutorials to understand and use our solutions effect
 - **FAQs:** Answers to common questions about our tools and platforms.
 - **Detailed Guides:** Tutorials and step-by-step instructions for each project.
 
-📖 Access our full documentation [here](https://github.com/AIDEdgeInc-Lab/Documentation-and-Learning).
+📖 Access our full documentation [Knowledge Hub](https://github.com/AIDEdgeInc-Lab/Documentation-and-Learning).
 
 ---
 
 
-## ![image](https://github.com/user-attachments/assets/71b21b12-f55c-4813-847c-4526d794d96e)  Supporting Tools
+## ![image](https://github.com/user-attachments/assets/71b21b12-f55c-4813-847c-4526d794d96e)  AI Enablement Suite
 
 Discover additional tools and resources that can enhance your AI development process:
 
@@ -176,7 +182,7 @@ Discover additional tools and resources that can enhance your AI development pro
 - **Model Evaluation Scripts:** Benchmark and evaluate model performance.
 - **Deployment Scripts:** Simplify deployment workflows for edge and cloud environments.
 
-🔗 Explore the tools repository [here](https://github.com/AIDEdgeInc-Lab/Supporting-Tools).
+🔗 Explore the tools repository [AI Enablement Suite](https://github.com/AIDEdgeInc-Lab/Supporting-Tools).
 
 
 
@@ -197,7 +203,7 @@ We value your feedback and are happy to assist with any questions or requirement
 
 
 
-<p align="center"> ✨💫⭐️   Follow us on:  ✨💫⭐️ </strong> </p> 
+<p align="center"> ✨ Follow us on:  </strong> </p> 
 
 
 <p align="center">
@@ -215,4 +221,3 @@ We value your feedback and are happy to assist with any questions or requirement
   </a>
   
 </p>
-
