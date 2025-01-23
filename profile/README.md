@@ -153,7 +153,11 @@ python hybrid_inference.py --input data/input.json
 
 ##  ![image](https://github.com/user-attachments/assets/157e2fad-5086-4904-a30a-a4aa2063300d)  Transparency and Feedback
 
+<div align="justify">
+  
 At AID Edge Inc., we believe in providing transparency to our customers by sharing the code and workflows behind our cutting-edge AI solutions. While the code is accessible for viewing, only our internal team works on developing and maintaining these projects.
+</div>
+
 
 For Our Customers:
 
