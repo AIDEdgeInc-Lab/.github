@@ -36,8 +36,10 @@ Empowering industries with cutting-edge AI technologies for real-world applicati
 
 ##  ![image](https://github.com/user-attachments/assets/f43525b1-5776-4894-85f1-0c7db11fe97b) Core Projects
 
-Our flagship projects are meticulously designed to tackle the evolving challenges of modern industries. By leveraging cutting-edge AI technologies, we empower organizations to unlock unprecedented efficiencies, scalability, and performance across diverse domains. These projects focus on:
-
+<div align="justify">
+  Our flagship projects are meticulously designed to tackle the evolving challenges of modern industries. By leveraging cutting-edge AI technologies, we empower organizations to unlock unprecedented efficiencies, scalability, and performance across diverse domains. These projects focus on:
+  
+</div>
 - **Orbital Intelligence**: Real-time AI inference for satellite systems.
 
 - **Airwave NanoML**: Optimized lightweight AI models for wireless networks.
