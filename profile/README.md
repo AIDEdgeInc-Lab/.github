@@ -1,10 +1,10 @@
-
-# AID EDGE INC. - Quantum Intelligence Lab
-<i align="center">Advancing the Future of AI-Driven Solutions</i>
+<h1 align="center">AID EDGE INC. - Quantum Intelligence Lab</h1>
+<p align="center"><i>Advancing the Future of AI-Driven Solutions</i></p>
 
 <p align="center">
 Relentlessly Pushing the Boundaries of Connectivity, with Responsibility and Purpose.
 </p>
+
 
 <p align="center">
 <img src="AEI-Lab-Image1.png" alt="AID Edge Inc. Logo" height="400"/>
