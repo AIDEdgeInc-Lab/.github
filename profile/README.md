@@ -13,24 +13,13 @@
 
 
 <p align="center">
-  
-  <a href="https://github.com/AIDEdgeInc-Lab/Scalable-Real-Time-Edge-AI-Frameworks">
-    <img src="https://img.shields.io/badge/Edge%20AI%20Frameworks-Pastel%20Blue?style=for-the-badge&color=CCE7FF" alt="Edge AI Frameworks" title="Discover solutions for edge AI deployment">
-  </a>
-  <a href="https://github.com/AIDEdgeInc-Lab/TinyML-Optimization">
-    <img src="https://img.shields.io/badge/NanoML%20Suite-Pastel%20Peach?style=for-the-badge&color=E6E6FA" alt="NanoML Suite" title="Learn about lightweight models for edge devices">
-  </a>
-  <a href="https://github.com/AIDEdgeInc-Lab/HybridML-Network-Models">
-    <img src="https://img.shields.io/badge/FusionAI%20Networks-Pastel%20Mint?style=for-the-badge&color=CCFFE5" alt="FusionAI Networks" title="Discover frameworks for hybrid AI models">
-  </a>
-  <a href="https://github.com/AIDEdgeInc-Lab/Documentation-and-Learning">
-    <img src="https://img.shields.io/badge/Innovation%20Center-Pastel%20Lavender?style=for-the-badge&color=FFE5CC" alt="Innovation Center" title="Learn about AI concepts and tools">
-  </a>
-  <a href="https://github.com/AIDEdgeInc-Lab/Supporting-Tools">
-    <img src="https://img.shields.io/badge/AI%20Tools-Pastel%20Sky%20Blue?style=for-the-badge&color=F0F0F0" alt="AI Tools" title="Explore tools and resources to accelerate AI development">
-  </a>
-  
+  <a href="https://github.com/AIDEdgeInc-Lab/Scalable-Real-Time-Edge-AI-Frameworks"><img src="https://img.shields.io/badge/Edge%20AI%20Frameworks-Pastel%20Blue?style=for-the-badge&color=CCE7FF" alt="Edge AI Frameworks" title="Discover solutions for edge AI deployment"></a>
+  <a href="https://github.com/AIDEdgeInc-Lab/TinyML-Optimization"><img src="https://img.shields.io/badge/NanoML%20Suite-Pastel%20Peach?style=for-the-badge&color=E6E6FA" alt="NanoML Suite" title="Learn about lightweight models for edge devices"></a>
+  <a href="https://github.com/AIDEdgeInc-Lab/HybridML-Network-Models"><img src="https://img.shields.io/badge/FusionAI%20Networks-Pastel%20Mint?style=for-the-badge&color=CCFFE5" alt="FusionAI Networks" title="Discover frameworks for hybrid AI models"></a>
+  <a href="https://github.com/AIDEdgeInc-Lab/Documentation-and-Learning"><img src="https://img.shields.io/badge/Innovation%20Center-Pastel%20Lavender?style=for-the-badge&color=FFE5CC" alt="Innovation Center" title="Learn about AI concepts and tools"></a>
+  <a href="https://github.com/AIDEdgeInc-Lab/Supporting-Tools"><img src="https://img.shields.io/badge/AI%20Tools-Pastel%20Sky%20Blue?style=for-the-badge&color=F0F0F0" alt="AI Tools" title="Explore tools and resources to accelerate AI development"></a>
 </p>
+
 
 
 ---
