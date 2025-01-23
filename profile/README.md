@@ -40,6 +40,8 @@ Empowering industries with cutting-edge AI technologies for real-world applicati
   Our flagship projects are meticulously designed to tackle the evolving challenges of modern industries. By leveraging cutting-edge AI technologies, we empower organizations to unlock unprecedented efficiencies, scalability, and performance across diverse domains. These projects focus on:
   
 </div>
+
+
 - **Orbital Intelligence**: Real-time AI inference for satellite systems.
 
 - **Airwave NanoML**: Optimized lightweight AI models for wireless networks.
