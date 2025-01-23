@@ -38,15 +38,15 @@ Empowering industries with cutting-edge AI technologies for real-world applicati
 
 Welcome to the **AID Edge Inc. Lab** repository for cutting-edge AI-driven solutions. This repository contains the core projects developed by our team, focusing on:
 
--**Orbital Intelligence**: Real-time AI inference for satellite systems.
+- **Orbital Intelligence**: Real-time AI inference for satellite systems.
 
--**Airwave NanoML**: Optimized lightweight AI models for wireless networks.
+- **Airwave NanoML**: Optimized lightweight AI models for wireless networks.
 
--**FusionAI Networks**: Hybrid AI frameworks for seamless integration of edge and cloud.
+- **FusionAI Networks**: Hybrid AI frameworks for seamless integration of edge and cloud.
 
--**Knowledge Hub**: Comprehensive documentation and tutorials.
+- **Knowledge Hub**: Comprehensive documentation and tutorials.
 
--**AI Enablement Suite**: Tools for data preparation, model evaluation, and deployment.
+- **AI Enablement Suite**: Tools for data preparation, model evaluation, and deployment.
 
 ---
 
