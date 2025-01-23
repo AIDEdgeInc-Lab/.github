@@ -16,7 +16,7 @@
 <p align="center">
   
   <a href="https://github.com/AIDEdgeInc-Lab/Scalable-Real-Time-Edge-AI-Frameworks">
-    <img src="https://img.shields.io/badge/Scalable%20Real%2DTime%20Edge%20AI%20Frameworks-Pastel%20Gray?style=for-the-badge&color=CCE7FF" alt="Scalable Real-Time Edge AI Frameworks" title="Discover solutions for edge AI deployment">
+    <img src="https://img.shields.io/badge/Scalable%20Real%2DTime%20Edge%20AI%20Frameworks-Pastel%20Blue?style=for-the-badge&color=CCE7FF" alt="Scalable Real-Time Edge AI Frameworks" title="Discover solutions for edge AI deployment">
   </a>
   <a href="https://github.com/AIDEdgeInc-Lab/TinyML-Optimization">
     <img src="https://img.shields.io/badge/NanoML%20Acceleration%20Suite-Pastel%20Peach?style=for-the-badge&color=E6E6FA" alt="NanoML Acceleration Suite" title="Learn about lightweight models for edge devices">
