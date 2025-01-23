@@ -70,7 +70,7 @@ Welcome to the **AID Edge Inc. Lab** repository for cutting-edge AI-driven solut
   
 ##  ![image](https://github.com/user-attachments/assets/839ca94d-0488-44c7-bfa5-2009d8b48d79)  Projects Overview
 
-### [Edge AI Solutions](Edge-AI-Solutions/README.md)
+### [Edge AI Solutions](Edge-AI-Platform/README.md)
 This project focuses on:
 - Real-time AI inference for edge devices.
 - Deployment-ready pre-trained models.
@@ -79,11 +79,11 @@ This project focuses on:
 Explore the project folder: [Edge AI Solutions](https://github.com/AIDEdgeInc-Lab/Edge-AI-Platform)
 
 
-- **[Edge AI - Satellite](https://github.com/AIDEdgeInc-Lab/edge-ai/satellite)**:
+- **[Edge AI - Satellite](https://github.com/AIDEdgeInc-Lab/Edge-AI-Platform/satellite)**:
   Real-time AI inference for satellite data at the edge.
-- **[Edge AI - Wireless](https://github.com/AIDEdgeInc-Lab/edge-ai/wireless)**:
+- **[Edge AI - Wireless](https://github.com/AIDEdgeInc-Lab/Edge-AI-Platform/wireless)**:
   AI solutions for wireless communication on edge devices.
-- **[Edge AI - Wireline](https://github.com/AIDEdgeInc-Lab/edge-ai/wireline)**:
+- **[Edge AI - Wireline](https://github.com/AIDEdgeInc-Lab/Edge-AI-Platform/wireline)**:
   Edge-based AI for wireline communication systems.
 
   
@@ -114,7 +114,7 @@ Explore the project folder: [Tiny ML Optimization](https://github.com/AIDEdgeInc
 
 ---
 
-### [Hybrid ML Frameworks](Hybrid-ML-Frameworks/README.md)
+### [Hybrid ML Frameworks](HybridML-Network-Models/README.md)
 This project integrates edge and cloud intelligence for:
 - Hybrid inference systems that combine local and remote computation.
 - Scripts for cloud-edge integration.
@@ -122,11 +122,11 @@ This project integrates edge and cloud intelligence for:
 
 Explore the project folder: [Hybrid ML Frameworks](https://github.com/AIDEdgeInc-Lab/HybridML-Network-Models)
 
-- **[Hybrid ML - Satellite](https://github.com/AIDEdgeInc-Lab/hybrid-ml/satellite)**:
+- **[Hybrid ML - Satellite](https://github.com/AIDEdgeInc-Lab/HybridML-Network-Models/satellite)**:
   Combining edge and cloud intelligence for satellite systems.
-- **[Hybrid ML - Wireless](https://github.com/AIDEdgeInc-Lab/hybrid-ml/wireless)**:
+- **[Hybrid ML - Wireless](https://github.com/AIDEdgeInc-Lab/HybridML-Network-Models/wireless)**:
   Hybrid solutions for wireless communication.
-- **[Hybrid ML - Wireline](https://github.com/AIDEdgeInc-Lab/hybrid-ml/wireline)**:
+- **[Hybrid ML - Wireline](https://github.com/AIDEdgeInc-Lab/HybridML-Network-Models/wireline)**:
   Hybrid AI models for wireline systems.
 
   ---
