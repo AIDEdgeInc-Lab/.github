@@ -1,20 +1,21 @@
-<h1 align="center">AID EDGE INC. - Quantum Intelligence Lab</h1>
-<p align="center"><i>Advancing the Future of AI-Driven Solutions</i></p>
+
+# AID EDGE INC. - Quantum Intelligence Lab
+<i align="center">Advancing the Future of AI-Driven Solutions</i>
 
 <p align="center">
- Relentlessly Pushing the Boundaries of Connectivity, with Responsibility and Purpose. 
+Relentlessly Pushing the Boundaries of Connectivity, with Responsibility and Purpose.
 </p>
 
 <p align="center">
-  <img src="AEI-Lab-Image1.png" alt="AID Edge Inc. Logo" height="400"/>
+<img src="AEI-Lab-Image1.png" alt="AID Edge Inc. Logo" height="400"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/AIDEdgeInc-Lab/Scalable-Real-Time-Edge-AI-Frameworks"><img src="https://img.shields.io/badge/Edge%20AI%20Frameworks-Pastel%20Blue?style=for-the-badge&color=CCE7FF" alt="Edge AI Frameworks" title="Discover solutions for edge AI deployment"></a>
-  <a href="https://github.com/AIDEdgeInc-Lab/TinyML-Optimization"><img src="https://img.shields.io/badge/NanoML%20Suite-Pastel%20Peach?style=for-the-badge&color=E6E6FA" alt="NanoML Suite" title="Learn about lightweight models for edge devices"></a>
-  <a href="https://github.com/AIDEdgeInc-Lab/HybridML-Network-Models"><img src="https://img.shields.io/badge/FusionAI%20Networks-Pastel%20Mint?style=for-the-badge&color=CCFFE5" alt="FusionAI Networks" title="Discover frameworks for hybrid AI models"></a>
-  <a href="https://github.com/AIDEdgeInc-Lab/Documentation-and-Learning"><img src="https://img.shields.io/badge/Knowledge%20Hub-Pastel%20Lavender?style=for-the-badge&color=FFE5CC" alt="Knowledge Hub" title="Learn about AI concepts and tools"></a>
-  <a href="https://github.com/AIDEdgeInc-Lab/Supporting-Tools"><img src="https://img.shields.io/badge/AI%20Enablement%20Suite-Pastel%20Sky%20Blue?style=for-the-badge&color=F0F0F0" alt="AI Enablement Suite" title="Explore tools and resources to accelerate AI development"></a>
+<a href="https://github.com/AIDEdgeInc-Lab/Scalable-Real-Time-Edge-AI-Frameworks"><img src="https://img.shields.io/badge/Orbital%20Intelligence-Pastel%20Blue?style=for-the-badge&color=CCE7FF" alt="Orbital Intelligence"></a>
+<a href="https://github.com/AIDEdgeInc-Lab/NanoML-Acceleration-Suite"><img src="https://img.shields.io/badge/Airwave%20NanoML-Pastel%20Green?style=for-the-badge&color=E6E6FA" alt="Airwave NanoML"></a>
+<a href="https://github.com/AIDEdgeInc-Lab/FusionAI-Adaptive-Networks"><img src="https://img.shields.io/badge/FusionAI%20Networks-Pastel%20Mint?style=for-the-badge&color=CCFFE5" alt="FusionAI Networks"></a>
+<a href="https://github.com/AIDEdgeInc-Lab/Documentation-and-Learning"><img src="https://img.shields.io/badge/Knowledge%20Hub-Pastel%20Lavender?style=for-the-badge&color=FFE5CC" alt="Knowledge Hub"></a>
+<a href="https://github.com/AIDEdgeInc-Lab/Supporting-Tools"><img src="https://img.shields.io/badge/AI%20Enablement%20Suite-Pastel%20Sky%20Blue?style=for-the-badge&color=F0F0F0" alt="AI Enablement Suite"></a>
 </p>
 
 ---
@@ -27,47 +28,49 @@
 
 ---
 
-## ![image](https://github.com/user-attachments/assets/f78950af-963e-4b28-ac4f-0cc8172e808e)  Our Mission
+## Our Mission
 
 Empowering industries with cutting-edge AI technologies for real-world applications.
 
 ---
 
-## ![image](https://github.com/user-attachments/assets/f43525b1-5776-4894-85f1-0c7db11fe97b)  Core Projects
+## Core Projects
 
 Welcome to the **AID Edge Inc. Lab** repository for cutting-edge AI-driven solutions. This repository contains the core projects developed by our team, focusing on:
 
-- **Edge AI Solutions**: Real-time AI inference and deployment on edge devices.
-- **Tiny ML Optimization**: Lightweight machine learning models for resource-constrained environments.
-- **Hybrid ML Frameworks**: Seamless integration between edge and cloud for hybrid machine learning systems.
-- **Documentation and Learning**: Tutorials and step-by-step instructions for understanding AI concepts and tools.
-- **Supporting Tools**: Scripts and utilities for data preparation, model evaluation, and deployment.
+- **Orbital Intelligence**: Real-time AI inference for satellite systems.
+- **Airwave NanoML**: Optimized lightweight AI models for wireless networks.
+- **FusionAI Networks**: Hybrid AI frameworks for seamless integration of edge and cloud.
+- **Knowledge Hub**: Comprehensive documentation and tutorials.
+- **AI Enablement Suite**: Tools for data preparation, model evaluation, and deployment.
 
 ---
 
-## ![image](https://github.com/user-attachments/assets/839ca94d-0488-44c7-bfa5-2009d8b48d79)  Projects Overview
+## Projects Overview
 
-### [Edge AI Solutions](https://github.com/AIDEdgeInc-Lab/Scalable-Real-Time-Edge-AI-Frameworks)
-This project focuses on:
-- Real-time AI inference for edge devices.
-- Deployment-ready pre-trained models.
-- Efficient scripts for edge-specific training and fine-tuning.
-
----
-
-### [Tiny ML Optimization](https://github.com/AIDEdgeInc-Lab/TinyML-Optimization)
-This project provides tools and resources for:
-- Optimizing ML models for microcontrollers and other resource-constrained devices.
-- Model compression, quantization, and pruning.
-- Benchmarks for evaluating performance on edge hardware.
+### [Orbital Intelligence](https://github.com/AIDEdgeInc-Lab/Scalable-Real-Time-Edge-AI-Frameworks)
+Real-time AI solutions for satellite networks:
+- Satellite communication optimization.
+- Environmental monitoring.
+- Disaster management.
 
 ---
 
-### [Hybrid ML Frameworks](https://github.com/AIDEdgeInc-Lab/HybridML-Network-Models)
-This project integrates edge and cloud intelligence for:
-- Hybrid inference systems that combine local and remote computation.
-- Scripts for cloud-edge integration.
-- Models optimized for bandwidth and latency efficiency.
+### [Airwave NanoML](https://github.com/AIDEdgeInc-Lab/NanoML-Acceleration-Suite)
+Lightweight AI models for wireless systems:
+- Latency reduction in IoT.
+- 5G network optimization.
+- Real-time outage prediction.
+
+---
+
+### [FusionAI Networks](https://github.com/AIDEdgeInc-Lab/FusionAI-Adaptive-Networks)
+Hybrid AI frameworks for telecom networks:
+- Cloud-edge integration.
+- Predictive maintenance.
+- Bandwidth and latency optimization.
+
+---
 
 ---
 
