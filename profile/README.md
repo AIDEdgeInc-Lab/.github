@@ -23,13 +23,15 @@ Relentlessly Pushing the Boundaries of Connectivity, with Responsibility and Pur
   <a href="https://github.com/AIDEdgeInc-Lab/AEI-Lab-Overview/blob/main/KNOWLEDGE%20HUB/README.md">
     <img src="https://img.shields.io/badge/Knowledge%20Hub-Pastel%20Lavender?style=for-the-badge&color=FFE5CC" alt="Knowledge Hub">
   </a>
-  
   <a href="https://github.com/AIDEdgeInc-Lab/AEI-Lab-Overview/blob/main/AI%20ENABLEMENT%20SUITE/README.md">
-    <img src="https://
+    <img src="https://img.shields.io/badge/AI%20Enablement%20Suite-Pastel%20Sky%20Blue?style=for-the-badge&color=F0F0F0" alt="AI Enablement Suite">
+  </a>
+</p>
 
 
 
 ---
+
 
 <p align="center">💡 Empowering AI. Transforming Industries. 🚀</p>
 
