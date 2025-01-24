@@ -1,4 +1,4 @@
-<h1 align="center">AID EDGE INC. - QUANTUM INTELLIGENCE LAB</h1>
+<h1 align="center">AID Edge Inc. - Quantum Intelligence Lab</h1>
 <p align="center"><i>Advancing the Future of AI-Driven Solutions</i></p>
 
 <p align="center">
