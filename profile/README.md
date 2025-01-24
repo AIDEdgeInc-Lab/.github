@@ -11,12 +11,23 @@ Relentlessly Pushing the Boundaries of Connectivity, with Responsibility and Pur
 </p>
 
 <p align="center">
-  <a href="https://github.com/AIDEdgeInc-Lab/AEI-Lab-Overview/blob/main/Orbital%20Intelligence/README.md"><img src="https://img.shields.io/badge/Orbital%20Intelligence-Pastel%20Blue?style=for-the-badge&color=CCE7FF" alt="Orbital Intelligence"></a><!--
-  --><a href="https://github.com/AIDEdgeInc-Lab/AEI-Lab-Overview/blob/main/Airwave%20Nanomesh/README.md"><img src="https://img.shields.io/badge/Airwave%20NanoML-Pastel%20Green?style=for-the-badge&color=E6E6FA" alt="Airwave NanoML"></a><!--
-  --><a href="https://github.com/AIDEdgeInc-Lab/AEI-Lab-Overview/blob/main/FusionAI%20Networks/README.md"><img src="https://img.shields.io/badge/FusionAI%20Networks-Pastel%20Mint?style=for-the-badge&color=CCFFE5" alt="FusionAI Networks"></a><!--
-  --><a href="https://github.com/AIDEdgeInc-Lab/AEI-Lab-Overview/blob/main/KNOWLEDGE%20HUB/README.md"><img src="https://img.shields.io/badge/Knowledge%20Hub-Pastel%20Lavender?style=for-the-badge&color=FFE5CC" alt="Knowledge Hub"></a><!--
-  --><a href="https://github.com/AIDEdgeInc-Lab/AEI-Lab-Overview/blob/main/AI%20ENABLEMENT%20SUITE/README.md"><img src="https://img.shields.io/badge/AI%20Enablement%20Suite-Pastel%20Sky%20Blue?style=for-the-badge&color=F0F0F0" alt="AI Enablement Suite"></a>
+  <a href="https://github.com/AIDEdgeInc-Lab/AEI-Lab-Overview/blob/main/Orbital%20Intelligence/README.md">
+    <img src="https://img.shields.io/badge/Orbital%20Intelligence-Pastel%20Blue?style=for-the-badge&color=CCE7FF" alt="Orbital Intelligence">
+  </a>
+  <a href="https://github.com/AIDEdgeInc-Lab/AEI-Lab-Overview/blob/main/Airwave%20Nanomesh/README.md">
+    <img src="https://img.shields.io/badge/Airwave%20NanoML-Pastel%20Green?style=for-the-badge&color=E6E6FA" alt="Airwave NanoML">
+  </a>
+  <a href="https://github.com/AIDEdgeInc-Lab/AEI-Lab-Overview/blob/main/FusionAI%20Networks/README.md">
+    <img src="https://img.shields.io/badge/FusionAI%20Networks-Pastel%20Mint?style=for-the-badge&color=CCFFE5" alt="FusionAI Networks">
+  </a>
+  <a href="https://github.com/AIDEdgeInc-Lab/AEI-Lab-Overview/blob/main/KNOWLEDGE%20HUB/README.md">
+    <img src="https://img.shields.io/badge/Knowledge%20Hub-Pastel%20Lavender?style=for-the-badge&color=FFE5CC" alt="Knowledge Hub">
+  </a>
+  <a href="https://github.com/AIDEdgeInc-Lab/AEI-Lab-Overview/blob/main/AI%20ENABLEMENT%20SUITE/README.md">
+    <img src="https://img.shields.io/badge/AI%20Enablement%20Suite-Pastel%20Sky%20Blue?style=for-the-badge&color=F0F0F0" alt="AI Enablement Suite">
+  </a>
 </p>
+
 
 
 
