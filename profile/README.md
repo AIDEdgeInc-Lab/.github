@@ -26,7 +26,7 @@ Relentlessly Pushing the Boundaries of Connectivity, with Responsibility and Pur
 ---
 
 
-<p align="center">💡 Empowering AI. Transforming Industries. 🚀</p>
+<p align="center">💡 **Empowering AI. Transforming Industries.** 🚀</p>
 
 
 
