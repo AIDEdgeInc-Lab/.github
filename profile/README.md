@@ -29,6 +29,22 @@ Relentlessly Pushing the Boundaries of Connectivity, with Responsibility and Pur
 <p align="center">💡 Empowering AI. Transforming Industries. 🚀</p>
 
 
+
+<div align="justify">
+<b>Welcome to the Quantum Intelligence Lab at AID Edge Inc.</b>, where we redefine the possibilities of AI by delivering next-generation solutions to empower the world’s most ambitious enterprises. Our expertise spans scalable, real-time edge AI frameworks that revolutionize connectivity with sub-millisecond latency, NanoML acceleration that brings unprecedented efficiency to IoT and embedded systems, and FusionAI adaptive networks that transform hybrid learning with unmatched scalability and intelligence. We don’t just develop technology—we create the future, delivering innovations that drive industries like telecommunications and aerospace to the next frontier.
+</div>
+
+---
+
+### Security and Collaboration
+We prioritize **confidentiality and security** in all our projects. To maintain this, our repositories are **private**, ensuring our solutions and intellectual property remain secure. Here’s how we operate:
+1. **Private Repositories:** All project details, codebases, and documentation are securely stored in private repositories.
+2. **ReadMe Accessibility:** For transparency, we provide detailed **ReadMe files** that outline project objectives and capabilities—accessible to everyone for clarity and exploration.
+3. **Customized Access:** Partners and clients receive specific access tailored to their projects, ensuring seamless collaboration while safeguarding sensitive data.
+4. **Trusted Partnerships:** We are open to collaborating with **trusted partners** who share our vision for advancing AI innovation.
+---
+
+
 <div align="justify">
 <b>Welcome to the Quantum Intelligence Lab at AID Edge Inc.</b>, where we redefine the possibilities of AI by delivering next-generation solutions to empower the world’s most ambitious enterprises. Our expertise spans scalable, real-time edge AI frameworks that revolutionize connectivity with sub-millisecond latency, NanoML acceleration that brings unprecedented efficiency to IoT and embedded systems, and FusionAI adaptive networks that transform hybrid learning with unmatched scalability and intelligence. We don’t just develop technology—we create the future, delivering innovations that drive industries like telecommunications and aerospace to the next frontier.
 </div>
