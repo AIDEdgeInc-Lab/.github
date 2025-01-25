@@ -247,6 +247,6 @@ We value your feedback and are happy to assist with any questions or requirement
 
 ---
 
+<p align="center"> ** © 2025 AID Edge Inc. - All Rights Reserved ** </p>
 
-<p align="center"> © 2025 AID Edge Inc. - All Rights Reserved </p>
 ---
