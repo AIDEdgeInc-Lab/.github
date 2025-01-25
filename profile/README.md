@@ -249,7 +249,7 @@ We value your feedback and are happy to assist with any questions or requirement
 
 <p align="center">
   <a href="#" style="text-decoration:none; display:inline-block;">
-    <img src="https://img.shields.io/badge/©%202025%20AID%20Edge%20Inc.%20-%20All%20Rights%20Reserved-Pastel%20Lavender?style=for-the-badge&color=CCE7FF" alt="© 2025 AID Edge Inc. - All Rights Reserved">
+    <img src="https://img.shields.io/badge/©%202025%20AID%20Edge%20Inc%20All%20Rights%20Reserved-Pastel%20Lavender?style=for-the-badge&color=CCE7FF" alt="© 2025 AID Edge Inc. - All Rights Reserved">
   </a>
 </p>
 
