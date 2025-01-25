@@ -35,9 +35,13 @@ Relentlessly Pushing the Boundaries of Connectivity, with Responsibility and Pur
 
 
 We prioritize **confidentiality and security** in all our projects. To maintain this, our repositories are **private**, ensuring our solutions and intellectual property remain secure. Here’s how we operate:
+
 ![image](https://github.com/user-attachments/assets/e6d22630-7fbd-47c9-ad0f-c8e5959ecb2c) **Private Repositories:** All project details, codebases, and documentation are securely stored in private repositories.
+
 ![image](https://github.com/user-attachments/assets/8b936557-2e35-4dc7-8346-025f8285145d)  **ReadMe Accessibility:** For transparency, we provide detailed **ReadMe files** that outline project objectives and capabilities—accessible to everyone for clarity and exploration.
+
 ![image](https://github.com/user-attachments/assets/e6d22630-7fbd-47c9-ad0f-c8e5959ecb2c) **Customized Access:** Partners and clients receive specific access tailored to their projects, ensuring seamless collaboration while safeguarding sensitive data.
+
 ![image](https://github.com/user-attachments/assets/968986d4-27d6-41de-93ed-398c28b22fb7) **Trusted Partnerships:** We are open to collaborating with **trusted partners** who share our vision for advancing AI innovation.
 
 </div>
