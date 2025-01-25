@@ -244,3 +244,10 @@ We value your feedback and are happy to assist with any questions or requirement
   <a href="mailto:info@aidedgeinc.com"><img src="https://img.shields.io/badge/Email-Contact%20Us-Pastel%20Pink?style=for-the-badge&color=FFE5CC" alt="Email"></a>
   
 </p>
+
+---
+
+© 2025 AID Edge Inc. - All Rights Reserved
+
+
+---
