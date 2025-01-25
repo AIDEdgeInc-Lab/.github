@@ -253,9 +253,4 @@ We value your feedback and are happy to assist with any questions or requirement
   </a>
 </p>
 
-
-<p align="center" style="background-color:#E8E8E8; padding:10px; border-radius:5px;">
-  <strong>© 2025 AID Edge Inc. - All Rights Reserved</strong>
-</p>
-
 ---
