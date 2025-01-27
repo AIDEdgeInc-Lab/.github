@@ -57,7 +57,7 @@ We prioritize **confidentiality and security** in all our projects. To maintain 
   <a href="https://github.com/AIDEdgeInc-Lab/AI-Enablement-Suite" style="text-decoration:none; display:inline-block;"><img src="https://img.shields.io/badge/AI%20Enablement%20Suite-Pastel%20Sky%20Blue?style=for-the-badge&color=F0F0F0" alt="AI Enablement Suite"></a>
 </p>
 
-> **Note:** These repositories are private and accessible only to authorized users with proper credentials. For access, contact: [info@aidedgeinc.com](mailto:info@aidedgeinc.com).
+<p align="center">> **Note:** These repositories are private and accessible only to authorized users with proper credentials. For access, contact: [info@aidedgeinc.com](mailto:info@aidedgeinc.com).</p>
 
 
 ---
