@@ -48,11 +48,11 @@ We prioritize **confidentiality and security** in all our projects. To maintain 
 
 ---
 
-## 🔒 **Private Resources (Authorized Access Only)**
+<p align="center">🔒 Private Resources (Authorized Access Only)</p>
 
 <p align="center">
   <a href="https://github.com/AIDEdgeInc-Lab/Scalable-Real-Time-Edge-AI-Frameworks" style="text-decoration:none; display:inline-block;">
-    <img src="https://img.shields.io/badge/Scalable%20Real-Time%20Edge%20AI%20Frameworks-Pastel%20Blue?style=for-the-badge&color=CCE7FF" alt="Scalable Real-Time Edge AI Frameworks">
+    <img src="https://img.shields.io/badge/Scalable%20Real%Time%20Edge%20AI%20Frameworks-Pastel%20Blue?style=for-the-badge&color=CCE7FF" alt="Scalable Real-Time Edge AI Frameworks">
   </a>
   <a href="https://github.com/AIDEdgeInc-Lab/FusionAI-Adaptive-Networks" style="text-decoration:none; display:inline-block;">
     <img src="https://img.shields.io/badge/FusionAI%20Adaptive%20Networks-Pastel%20Green?style=for-the-badge&color=E6E6FA" alt="FusionAI Adaptive Networks">
