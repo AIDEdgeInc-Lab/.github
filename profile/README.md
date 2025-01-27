@@ -50,22 +50,11 @@ We prioritize **confidentiality and security** in all our projects. To maintain 
 
 <p align="center">🔒 Private Resources (Authorized Access Only)</p>
 
-<p align="center">
-  <a href="https://github.com/AIDEdgeInc-Lab/Scalable-Real-Time-Edge-AI-Frameworks" style="text-decoration:none; display:inline-block;">
-    <img src="https://img.shields.io/badge/Scalable%20Real%Time%20Edge%20AI%20Frameworks-Pastel%20Blue?style=for-the-badge&color=CCE7FF" alt="Scalable Real-Time Edge AI Frameworks">
-  </a>
-  <a href="https://github.com/AIDEdgeInc-Lab/FusionAI-Adaptive-Networks" style="text-decoration:none; display:inline-block;">
-    <img src="https://img.shields.io/badge/FusionAI%20Adaptive%20Networks-Pastel%20Green?style=for-the-badge&color=E6E6FA" alt="FusionAI Adaptive Networks">
-  </a>
-  <a href="https://github.com/AIDEdgeInc-Lab/NanoML-Acceleration-Suite" style="text-decoration:none; display:inline-block;">
-    <img src="https://img.shields.io/badge/NanoML%20Acceleration%20Suite-Pastel%20Mint?style=for-the-badge&color=CCFFE5" alt="NanoML Acceleration Suite">
-  </a>
-  <a href="https://github.com/AIDEdgeInc-Lab/Knowledge-and-Innovation-Center" style="text-decoration:none; display:inline-block;">
-    <img src="https://img.shields.io/badge/Knowledge%20and%20Innovation%20Center-Pastel%20Lavender?style=for-the-badge&color=FFE5CC" alt="Knowledge and Innovation Center">
-  </a>
-  <a href="https://github.com/AIDEdgeInc-Lab/AI-Enablement-Suite" style="text-decoration:none; display:inline-block;">
-    <img src="https://img.shields.io/badge/AI%20Enablement%20Suite-Pastel%20Sky%20Blue?style=for-the-badge&color=F0F0F0" alt="AI Enablement Suite">
-  </a>
+<p align="center"><a href="https://github.com/AIDEdgeInc-Lab/Scalable-Real-Time-Edge-AI-Frameworks" style="text-decoration:none; display:inline-block;"><img src="https://img.shields.io/badge/Scalable%20Real%20Time%20Edge%20AI%20Frameworks-Pastel%20Blue?style=for-the-badge&color=CCE7FF" alt="Scalable Real-Time Edge AI Frameworks"></a>
+  <a href="https://github.com/AIDEdgeInc-Lab/FusionAI-Adaptive-Networks" style="text-decoration:none; display:inline-block;"><img src="https://img.shields.io/badge/FusionAI%20Adaptive%20Networks-Pastel%20Green?style=for-the-badge&color=E6E6FA" alt="FusionAI Adaptive Networks"></a>
+  <a href="https://github.com/AIDEdgeInc-Lab/NanoML-Acceleration-Suite" style="text-decoration:none; display:inline-block;"><img src="https://img.shields.io/badge/NanoML%20Acceleration%20Suite-Pastel%20Mint?style=for-the-badge&color=CCFFE5" alt="NanoML Acceleration Suite"></a>
+  <a href="https://github.com/AIDEdgeInc-Lab/Knowledge-and-Innovation-Center" style="text-decoration:none; display:inline-block;"><img src="https://img.shields.io/badge/Knowledge%20and%20Innovation%20Center-Pastel%20Lavender?style=for-the-badge&color=FFE5CC" alt="Knowledge and Innovation Center"></a>
+  <a href="https://github.com/AIDEdgeInc-Lab/AI-Enablement-Suite" style="text-decoration:none; display:inline-block;"><img src="https://img.shields.io/badge/AI%20Enablement%20Suite-Pastel%20Sky%20Blue?style=for-the-badge&color=F0F0F0" alt="AI Enablement Suite"></a>
 </p>
 
 > **Note:** These repositories are private and accessible only to authorized users with proper credentials. For access, contact: [info@aidedgeinc.com](mailto:info@aidedgeinc.com).
