@@ -11,13 +11,8 @@ Relentlessly Pushing the Boundaries of Connectivity, with Responsibility and Pur
 </p>
 
 
-<p align="center">
-  
-## 🌐 **Public Resources**
-
-Explore our initiatives and research in the following areas:
-
-</p>
+<p align="center"> ## 🌐 **Public Resources**
+Explore our initiatives and research in the following areas: </p>
 
 <p align="center">
   <a href="https://github.com/AIDEdgeInc-Lab/AEI-Lab-Overview/blob/main/Orbital%20Intelligence/README.md" style="text-decoration:none; display:inline-block;"><img src="https://img.shields.io/badge/Orbital%20Intelligence-Pastel%20Blue?style=for-the-badge&color=CCE7FF" alt="Orbital Intelligence"></a>
