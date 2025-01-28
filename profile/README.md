@@ -66,7 +66,7 @@ Empowering industries with cutting-edge AI technologies for real-world applicati
 
 ---
 
-##  ![image](https://github.com/user-attachments/assets/f43525b1-5776-4894-85f1-0c7db11fe97b) Core Projects
+##  ![image](https://github.com/user-attachments/assets/f43525b1-5776-4894-85f1-0c7db11fe97b)  Core Projects
 
 <div align="justify">
   Our flagship projects are meticulously designed to tackle the evolving challenges of modern industries. By leveraging cutting-edge AI technologies, we empower organizations to unlock unprecedented efficiencies, scalability, and performance across diverse domains. These projects focus on:
@@ -86,7 +86,7 @@ Empowering industries with cutting-edge AI technologies for real-world applicati
 
 ---
 
-##  ![image](https://github.com/user-attachments/assets/839ca94d-0488-44c7-bfa5-2009d8b48d79)  Projects Overview
+## ![image](https://github.com/user-attachments/assets/839ca94d-0488-44c7-bfa5-2009d8b48d79)  Projects Overview
 
 ### [Orbital Intelligence](https://github.com/AIDEdgeInc-Lab/Scalable-Real-Time-Edge-AI-Frameworks)
 Real-time AI solutions for satellite networks:
@@ -183,7 +183,7 @@ python hybrid_inference.py --input data/input.json
 
 ---
 
-##  ![image](https://github.com/user-attachments/assets/157e2fad-5086-4904-a30a-a4aa2063300d)  Transparency and Feedback
+##  ![image](https://github.com/user-attachments/assets/035295a4-4bdf-4786-b45e-1b548933acb1) Transparency and Feedback
 
 <div align="justify">
   
@@ -205,7 +205,7 @@ These repositories are actively maintained and updated by our in-house team. For
 ---
 
 
-## ![image](https://github.com/user-attachments/assets/89a2c1f3-347c-4290-a003-716e9b155d8c)  Knowledge Hub
+## ![image](https://github.com/user-attachments/assets/157e2fad-5086-4904-a30a-a4aa2063300d)  Knowledge Hub
 
 Explore in-depth guides and tutorials to understand and use our solutions effectively:
 
@@ -232,7 +232,7 @@ Discover additional tools and resources that can enhance your AI development pro
 
 ---
 
-##  ![image](https://github.com/user-attachments/assets/7868b320-bc13-4065-85a8-073dd6698163)  Contact
+##  ![image](https://github.com/user-attachments/assets/89a2c1f3-347c-4290-a003-716e9b155d8c)  Contact
 
 For questions, feedback, or to learn more, reach out to us:
 
