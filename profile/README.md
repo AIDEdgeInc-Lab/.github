@@ -10,11 +10,11 @@
 <p align="center">⭐ Public Resources</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Microwave%20Validation-B3D9F2?style=flat-square" alt="Microwave Validation">
-  <img src="https://img.shields.io/badge/-Wireless%20Degradation-C8F2E0?style=flat-square" alt="Wireless Degradation">
-  <img src="https://img.shields.io/badge/-Transport%20Network%20Degradation-B9E8D8?style=flat-square" alt="Transport Network Degradation">
-  <img src="https://img.shields.io/badge/-Technical%20Docs-F2D9B3?style=flat-square" alt="Technical Docs">
-  <img src="https://img.shields.io/badge/-Operational%20Intelligence%20Methods-E0E0E0?style=flat-square" alt="Operational Intelligence Methods">
+  <a href="https://github.com/AIDEdgeInc-Lab/velorona-simulations/tree/main/microwave"><img src="https://img.shields.io/badge/-Microwave%20Validation-B3D9F2?style=flat-square" alt="Microwave Validation"></a>
+  <a href="https://github.com/AIDEdgeInc-Lab/velorona-simulations/tree/main/wireless"><img src="https://img.shields.io/badge/-Wireless%20Degradation-C8F2E0?style=flat-square" alt="Wireless Degradation"></a>
+  <a href="https://github.com/AIDEdgeInc-Lab/velorona-simulations/tree/main/transport"><img src="https://img.shields.io/badge/-Transport%20Network%20Degradation-B9D9F2?style=flat-square" alt="Transport Network Degradation"></a>
+  <a href="https://github.com/AIDEdgeInc-Lab/velorona-overview/tree/main/docs"><img src="https://img.shields.io/badge/-Technical%20Docs-F7CFE3?style=flat-square" alt="Technical Docs"></a>
+  <a href="https://github.com/AIDEdgeInc-Lab/velorona-libraries/tree/main/validation-methods"><img src="https://img.shields.io/badge/-Operational%20Intelligence%20Methods-F2E0B3?style=flat-square" alt="Operational Intelligence Methods"></a>
 </p>
 
 ---
@@ -52,10 +52,10 @@ Velorona's active validation focus is **microwave link degradation**, using cont
 <p align="center">🔒 Internal / Private Resources</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Network%20Degradation%20Patterns-B3D9F2?style=flat-square" alt="Network Degradation Patterns">
-  <img src="https://img.shields.io/badge/-Resource--Aware%20Degradation%20Analysis-C8F2E0?style=flat-square" alt="Resource-Aware Degradation Analysis">
-  <img src="https://img.shields.io/badge/-Field%20Data-F2D9B3?style=flat-square" alt="Field Data">
-  <img src="https://img.shields.io/badge/-Core%20Implementation-E0E0E0?style=flat-square" alt="Core Implementation">
+  <a href="https://github.com/AIDEdgeInc-Lab/velorona-libraries/tree/main/degradation-patterns"><img src="https://img.shields.io/badge/-Network%20Degradation%20Patterns-B3D9F2?style=flat-square" alt="Network Degradation Patterns"></a>
+  <a href="https://github.com/AIDEdgeInc-Lab/velorona-libraries/tree/main/validation-methods"><img src="https://img.shields.io/badge/-Resource--Aware%20Degradation%20Analysis-C8F2E0?style=flat-square" alt="Resource-Aware Degradation Analysis"></a>
+  <a href="https://github.com/AIDEdgeInc-Lab/velorona-field-data"><img src="https://img.shields.io/badge/-Field%20Data-F2E0B3?style=flat-square" alt="Field Data"></a>
+  <a href="https://github.com/AIDEdgeInc-Lab/velorona-core-private"><img src="https://img.shields.io/badge/-Core%20Implementation-D9D9E0?style=flat-square" alt="Core Implementation"></a>
 </p>
 
 Sensitive repositories remain private by default to protect testbed data, implementation details, and future partner material.
