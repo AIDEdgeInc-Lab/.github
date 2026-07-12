@@ -51,6 +51,17 @@ Velorona's active validation focus is **microwave link degradation**, using cont
 
 ---
 
+<p align="center">🌐 Public Open-Source Libraries</p>
+<p align="center"><i>Reusable libraries published by AID Edge Inc. for public use, technical review, and collaboration.</i></p>
+
+<p align="center">
+  <a href="https://github.com/AIDEdgeInc-Lab/aei-geo-features"><img src="https://img.shields.io/badge/-AEI%20Geo%20Features-B3D9F2?style=flat-square" alt="AEI Geo Features Repository"></a>
+  <a href="https://github.com/AIDEdgeInc-Lab/aei-geo-features/releases/tag/v0.1.0"><img src="https://img.shields.io/badge/-Release%20v0.1.0-C8F2E0?style=flat-square" alt="AEI Geo Features Release v0.1.0"></a>
+</p>
+<p align="center"><i>General-purpose geospatial feature utilities with a narrow, tested public API.</i></p>
+
+---
+
 <p align="center">🔒 Internal / Private Resources</p>
 <p align="center"><i>Internal resources are linked for authorized users only. Access is controlled through GitHub repository permissions.</i></p>
 
