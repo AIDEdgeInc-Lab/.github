@@ -90,13 +90,13 @@ We value your feedback and are happy to assist with any questions or requirement
 
 ---
 
-<p align="center">✨ Follow us on: </p>
+<p align="center">✨ Follow us on:</p>
 
 <p align="center">
-  <a href="https://www.aidedges.com"><img src="https://img.shields.io/badge/Website-AID%20Edge%20Inc.-A3E4D7?style=for-the-badge" alt="Website"></a>
+  <a href="https://www.aidedgeinc.com"><img src="https://img.shields.io/badge/Website-AID%20Edge%20Inc.-A3E4D7?style=for-the-badge" alt="Website"></a>
   <a href="https://www.linkedin.com/company/aid-edge-inc"><img src="https://img.shields.io/badge/LinkedIn-AID%20Edge%20Inc.-CCE7FF?style=for-the-badge" alt="LinkedIn"></a>
   <a href="https://github.com/AIDEdgeInc-Lab"><img src="https://img.shields.io/badge/GitHub-AID%20Edge%20Inc.-E6E6FA?style=for-the-badge" alt="GitHub"></a>
-  <a href="mailto:info@aidedgeinc.com"><img src="https://img.shields.io/badge/Email-Contact%20Us-FFE5CC?style=for-the-badge" alt="Email"></a>
+  <a href="mailto:sara@aidedgeinc.com"><img src="https://img.shields.io/badge/Email-Contact%20Us-FFE5CC?style=for-the-badge" alt="Email"></a>
 </p>
 
 ---
