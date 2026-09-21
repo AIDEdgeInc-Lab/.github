@@ -81,8 +81,10 @@ Sensitive repositories remain private by default to protect testbed data, implem
 
 ## ✦ Contact
 
-- 📧 **Email**: [info@aidedgeinc.com](mailto:info@aidedgeinc.com)
-- 🌐 **Website**: [www.aidedges.com](https://www.aidedges.com)
+- 📧 **Email**: [sara@aidedgeinc.com](mailto:sara@aidedgeinc.com)
+- 🌐 **Website**: [www.aidedgeinc.com](https://www.aidedgeinc.com)
+- ⚡ **Velorona**: [velorona.ai](https://velorona.ai)
+- 💼 **LinkedIn**: [AID Edge Inc.](https://www.linkedin.com/company/aid-edge-inc/)
 
 We value your feedback and are happy to assist with any questions or requirements!
 
