@@ -84,18 +84,19 @@ output as `standards/audit/settings-2026-10-13.md`. The script is read-only (GET
 
 | Repo | Change | PR / SHA | Stage | Status |
 |---|---|---|---|---|
-| `.github` | Standard, checklist, rollback, runbook, audit, reusable workflows, org defaults | branch `claude/upbeat-feynman-csli2s` | — | **Implemented**; reusable pieces **Validated locally** (below); **not merged** |
-| `velorona-qgis-plugin` | `ci.yml` (unit ×2, enums, bandit, package, QGIS 4.0/4.2 offline suites, `ci-gate`), `release-validate.yml`, `published-verify.yml`, `qgis-live-e2e.yml`, `run_qgis_suite.py`, `check_skips.py`, `requirements-dev.txt`, dependabot, `docs/QUALITY.md` | [PR #18](https://github.com/AIDEdgeInc-Lab/velorona-qgis-plugin/pull/18), head `cdb6c03` | A, B, C | **CI-verified** (below); **not merged**, not released |
+| `.github` | Standard, checklist, rollback, runbook, audit, reusable workflows, org defaults | [PR #6](https://github.com/AIDEdgeInc-Lab/.github/pull/6), branch `claude/upbeat-feynman-csli2s` | — | **Implemented**; hygiene workflow **CI-verified**, the other two reusable workflows **Validated locally** (below); **not merged** |
+| `velorona-qgis-plugin` | `ci.yml` (unit ×2, enums, bandit, package, QGIS 4.0/4.2 offline suites, `ci-gate`), `release-validate.yml`, `published-verify.yml`, `qgis-live-e2e.yml`, `run_qgis_suite.py`, `check_skips.py`, `requirements-dev.txt`, dependabot, `docs/QUALITY.md` | [PR #18](https://github.com/AIDEdgeInc-Lab/velorona-qgis-plugin/pull/18), head `cdb6c03` | A, B, C | **CI-verified** (below, with one tolerated QGIS 4.0.3 teardown crash); **not merged**, not released |
 | `velorona-map` | `ci.yml`: pytest on pull requests + `ci-gate` | [PR #29](https://github.com/AIDEdgeInc-Lab/velorona-map/pull/29), head `d19ba45` | A | **CI-verified**; **not merged** (merging deploys; `web/` unchanged) |
 
-### Evidence, plugin PR #18 (GitHub Actions)
-- Stage A run 38331824850 @ `ec61313`: `unit` 3.12 and 3.13 ✔ (331 passed, only the 2 allowlisted skips), `enums` ✔, `bandit` ✔,
+### Evidence, plugin PR #18 (GitHub Actions, final head `cdb6c03`)
+- Stage A run [38332599899](https://github.com/AIDEdgeInc-Lab/velorona-qgis-plugin/actions/runs/38332599899): `unit` 3.12 and 3.13 ✔ (331 passed, only the 2 allowlisted skips), `enums` ✔, `bandit` ✔,
   `package` ✔ (zip built + verified), `ci-gate` ✔. QGIS **4.0.3 and 4.2** offline suites ✔ (UI polish **62/62** read from the 4.0 log).
-- Stage C run 38331824831: downloaded the live **Velorona 1.1.7** from plugins.qgis.org, `verify_package.py` PASS (62 files).
-- Stage B run 38331941980 @ `a3bf22e`: consistency ✔, full CI ✔, build ✔ (sha256 recorded), **clean install QGIS 4.2 ✔ (36/36)**,
-  **clean install QGIS 4.0 ✘ ×2** (36/36 passed, then abort at shutdown) → issue [#19](https://github.com/AIDEdgeInc-Lab/velorona-qgis-plugin/issues/19),
-  classified *infrastructure / QGIS runtime teardown*. Tolerance added in `cdb6c03` (`run_qgis_suite.py`, unit-tested incl. a real `os.abort()`).
-  **The Stage B run after `cdb6c03` is the pending confirmation** (see §7).
+- Stage C run [38332599890](https://github.com/AIDEdgeInc-Lab/velorona-qgis-plugin/actions/runs/38332599890): downloaded the live **Velorona 1.1.7** from plugins.qgis.org, `verify_package.py` PASS (62 files).
+- Stage B run [38332600021](https://github.com/AIDEdgeInc-Lab/velorona-qgis-plugin/actions/runs/38332600021): consistency ✔, full CI ✔, build ✔ (sha256 recorded), **clean install QGIS 4.2 ✔ (36/36, clean exit)**,
+  **clean install QGIS 4.0 ✔ (36/36) with a warning**: the process died at shutdown. History of that lane: attempts 1 and 2 of run 38331941980 (before the wrapper) **failed** with `std::bad_alloc` abort (exit 134) after `36/36 passed`;
+  the run above died with SIGSEGV (exit −11). Issue [#19](https://github.com/AIDEdgeInc-Lab/velorona-qgis-plugin/issues/19), classified *infrastructure / QGIS-runtime teardown*, cause **not established**.
+  `run_qgis_suite.py` tolerates exactly "complete N/N pass + abort signal" and nothing else (11 unit tests incl. a real `os.abort()`).
+- Not exercised: `qgis-live-e2e.yml` (weekly; first run after merge), and the issue-on-failure step of `published-verify.yml`.
 
 ### Evidence, Map PR #29
 - Run 38332150383 @ `d19ba45`: `pytest (no skips allowed)` ✔ in 93 s on a runner; `ci-gate` ✔.
@@ -106,7 +107,8 @@ output as `standards/audit/settings-2026-10-13.md`. The script is read-only (GET
 - `reusable-pypi-verify.yml` logic run against real PyPI: passes for `aei-geo-features 0.1.5`; fails correctly for a
   never-published version (404) and for a wrong import name.
 - `reusable-workflow-hygiene.yml` pin/permission checks run over the 7 real repos: they correctly find the 52 unpinned refs.
-- **Not CI-verified**: these workflows have not run on GitHub yet (they become callable after this repository's branch is merged).
+- **CI-verified on a runner:** `reusable-workflow-hygiene.yml` (called by this repo's `ci.yml`; actionlint, pin check, permissions check and `ci-gate` all ran and passed: run [38332743132](https://github.com/AIDEdgeInc-Lab/.github/actions/runs/38332743132) @ `278468d`, PR [#6](https://github.com/AIDEdgeInc-Lab/.github/pull/6)).
+- **Not CI-verified**: `reusable-python-lib-ci.yml` and `reusable-pypi-verify.yml` have not run on GitHub yet (they become callable after this repository's branch is merged).
 
 ## 6. Gap register by repository (what to do, in order)
 
