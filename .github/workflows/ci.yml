@@ -1,0 +1,31 @@
+# CI for this repository: its own workflows must meet the standard it publishes.
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  hygiene:
+    uses: ./.github/workflows/reusable-workflow-hygiene.yml
+
+  ci-gate:
+    if: ${{ always() }}
+    needs: [hygiene]
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - name: All required lanes must have succeeded
+        env:
+          RESULTS: ${{ toJSON(needs) }}
+        run: |
+          echo "$RESULTS" | python3 -c "
+          import json, sys
+          needs = json.load(sys.stdin)
+          print({k: v['result'] for k, v in needs.items()})
+          sys.exit(0 if all(v['result'] == 'success' for v in needs.values()) else 1)"

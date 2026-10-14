@@ -1,0 +1,40 @@
+# Workflow supply-chain hygiene, callable from any repo (and used by this repo on itself):
+#   1. actionlint over every workflow (syntax, expression and shell errors, script-injection patterns).
+#   2. every third-party `uses:` is pinned to a full 40-char commit SHA (mutable tags can be repointed).
+#   3. every workflow declares a top-level `permissions:` block (least privilege; default token is not trusted).
+name: Reusable - workflow hygiene
+
+on:
+  workflow_call:
+
+permissions:
+  contents: read
+
+jobs:
+  hygiene:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: actionlint
+        run: |
+          bash <(curl -fsSL https://raw.githubusercontent.com/rhysd/actionlint/914e7df21a07ef503a81201c76d2b11c789d3fca/scripts/download-actionlint.bash) 1.7.12
+          ./actionlint -color
+      - name: Actions are pinned to full commit SHAs
+        run: |
+          shopt -s nullglob
+          files=(.github/workflows/*.yml .github/workflows/*.yaml)
+          [ ${#files[@]} -gt 0 ] || { echo "no workflows"; exit 0; }
+          bad=$(grep -nE '^\s*-?\s*uses:\s*[^./ ][^ ]*@' "${files[@]}" | grep -vE '@[0-9a-f]{40}(\s|$)' || true)
+          if [ -n "$bad" ]; then echo "::error::unpinned actions (pin to a commit SHA, keep the tag as a trailing comment):"; echo "$bad"; exit 1; fi
+          echo "all external actions pinned"
+      - name: Every workflow declares top-level permissions
+        run: |
+          shopt -s nullglob
+          fail=0
+          for f in .github/workflows/*.yml .github/workflows/*.yaml; do
+            grep -qE '^permissions:' "$f" || { echo "::error file=$f::no top-level permissions: block"; fail=1; }
+          done
+          exit $fail

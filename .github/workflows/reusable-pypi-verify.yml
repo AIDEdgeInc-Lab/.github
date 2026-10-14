@@ -1,0 +1,107 @@
+# Stage C for a published Python package: verify what an END USER gets, not that the upload step was green.
+# Waits for the exact version to appear on the index, installs it into a clean venv, imports it, and checks the
+# installed version equals the released version. Optional `smoke-command` runs an extra behavioural check.
+#
+# Call it AFTER the publish job (`needs: publish-pypi`). A failure here means "published but not verified":
+# treat as a release incident (see standards/RELEASE-AND-ROLLBACK.md), do not announce the release.
+name: Reusable - PyPI post-publish verification
+
+on:
+  workflow_call:
+    inputs:
+      package:
+        description: "Distribution name on the index, e.g. aei-geo-features"
+        required: true
+        type: string
+      version:
+        description: "Exact released version, e.g. 0.1.5"
+        required: true
+        type: string
+      import-name:
+        description: "Module to import, e.g. aei_geo_features"
+        required: true
+        type: string
+      index:
+        description: "pypi or testpypi"
+        required: false
+        type: string
+        default: pypi
+      python-version:
+        required: false
+        type: string
+        default: "3.12"
+      smoke-command:
+        description: "Optional shell command run with the venv python as $VENV_PY (must exit 0)"
+        required: false
+        type: string
+        default: ""
+      wait-minutes:
+        description: "How long to wait for index propagation before failing"
+        required: false
+        type: number
+        default: 10
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    name: Verify ${{ inputs.package }} ${{ inputs.version }} on ${{ inputs.index }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: ${{ inputs.python-version }}
+      - name: Wait for the version to appear on the index
+        env:
+          PACKAGE: ${{ inputs.package }}
+          VERSION: ${{ inputs.version }}
+          INDEX: ${{ inputs.index }}
+          WAIT_MINUTES: ${{ inputs.wait-minutes }}
+        run: |
+          case "$INDEX" in
+            pypi)     base="https://pypi.org" ;;
+            testpypi) base="https://test.pypi.org" ;;
+            *) echo "::error::index must be pypi or testpypi"; exit 1 ;;
+          esac
+          deadline=$(( $(date +%s) + WAIT_MINUTES * 60 ))
+          until curl -fsS "$base/pypi/$PACKAGE/$VERSION/json" -o /dev/null; do
+            if [ "$(date +%s)" -ge "$deadline" ]; then
+              echo "::error::$PACKAGE==$VERSION not visible on $INDEX after $WAIT_MINUTES min (publish failed or index delay)"; exit 1
+            fi
+            echo "not visible yet; retrying in 20s"; sleep 20
+          done
+          echo "$PACKAGE==$VERSION is visible on $INDEX"
+      - name: Install into a clean venv (no cache, no source checkout)
+        env:
+          PACKAGE: ${{ inputs.package }}
+          VERSION: ${{ inputs.version }}
+          INDEX: ${{ inputs.index }}
+        run: |
+          python -m venv "$RUNNER_TEMP/verify"
+          if [ "$INDEX" = "testpypi" ]; then
+            "$RUNNER_TEMP/verify/bin/pip" install --no-cache-dir --index-url https://test.pypi.org/simple/ --extra-index-url https://pypi.org/simple/ "$PACKAGE==$VERSION"
+          else
+            "$RUNNER_TEMP/verify/bin/pip" install --no-cache-dir "$PACKAGE==$VERSION"
+          fi
+      - name: Import and compare installed version with released version
+        env:
+          PACKAGE: ${{ inputs.package }}
+          VERSION: ${{ inputs.version }}
+          IMPORT_NAME: ${{ inputs.import-name }}
+        run: |
+          "$RUNNER_TEMP/verify/bin/python" - <<'PY'
+          import importlib, importlib.metadata as md, os, sys
+          pkg, want, mod = os.environ["PACKAGE"], os.environ["VERSION"], os.environ["IMPORT_NAME"]
+          importlib.import_module(mod)
+          got = md.version(pkg)
+          print(f"imported {mod}; installed {pkg}=={got}")
+          sys.exit(0 if got == want else 1)
+          PY
+      - name: Optional behavioural smoke command
+        if: ${{ inputs.smoke-command != '' }}
+        env:
+          SMOKE: ${{ inputs.smoke-command }}
+          VENV_PY: ${{ runner.temp }}/verify/bin/python
+        run: eval "$SMOKE"
