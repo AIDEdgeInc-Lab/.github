@@ -74,7 +74,7 @@ Cloudflare `cfut_`) over all 13 working trees, plus tracked `.env*`/`*.pem`/key 
 
 The GitHub MCP tools expose neither rulesets, branch-protection rules, required checks, environment reviewers,
 secret-scanning/push-protection state, Actions permissions nor org 2FA. `gh` in the sandbox fails authentication.
-Only one signal was available: `GET branches` → `protected: false` for `velorona-map` `main` and all 50 other branches; `aei-geo-features` `main` reports `protected: true` (classic protection exists there; its required checks are unknown, and renaming CI jobs, as PR #22 does, may need a matching update).
+Only one signal was available: `GET branches` → `protected: false` for `velorona-map` `main` and all 50 other branches; `aei-geo-features` `main` reports `protected: true` (classic protection exists there; its required checks are unknown, and renaming CI jobs, as PR #22 does, may need a matching update). `aei-link-clearance`, `aei-microwave-link-exposure`, `aei-workflow-runner` and `aei-3gpp-kpi-validator` `main` report `protected: false`.
 
 **Closing the gap (5 minutes, you):** run `standards/scripts/audit-github-settings.sh` with `gh auth login`, save the
 output as `standards/audit/settings-2026-10-13.md`. The script is read-only (GET only). It was lint-checked
@@ -86,6 +86,10 @@ output as `standards/audit/settings-2026-10-13.md`. The script is read-only (GET
 |---|---|---|---|---|
 | `.github` | Standard, checklist, rollback, runbook, audit, reusable workflows, org defaults | [PR #6](https://github.com/AIDEdgeInc-Lab/.github/pull/6), branch `claude/upbeat-feynman-csli2s` | — | **Implemented**; hygiene workflow **CI-verified**, the other two reusable workflows **Validated locally** (below); **not merged** |
 | `velorona-qgis-plugin` | `ci.yml` (unit ×2, enums, bandit, package, QGIS 4.0/4.2 offline suites, `ci-gate`), `release-validate.yml`, `published-verify.yml`, `qgis-live-e2e.yml`, `run_qgis_suite.py`, `check_skips.py`, `requirements-dev.txt`, dependabot, `docs/QUALITY.md` | [PR #18](https://github.com/AIDEdgeInc-Lab/velorona-qgis-plugin/pull/18), head `cdb6c03` | A, B, C | **CI-verified** (below, with one tolerated QGIS 4.0.3 teardown crash); **not merged**, not released |
+| `aei-link-clearance` | same shared-CI change + `ci-gate` + `permissions` + dependabot | [PR #3](https://github.com/AIDEdgeInc-Lab/aei-link-clearance/pull/3), head `3e24262` | A | **CI-verified** (run 38490346981); **not merged** |
+| `aei-microwave-link-exposure` | same (this is the Map's parity oracle and a plugin requirement) | [PR #6](https://github.com/AIDEdgeInc-Lab/aei-microwave-link-exposure/pull/6), head `67a6a1a` | A | **CI-verified** (run 38490353878); **not merged** |
+| `aei-workflow-runner` | same + dependabot | [PR #2](https://github.com/AIDEdgeInc-Lab/aei-workflow-runner/pull/2), head `1cea195` | A | **CI-verified** (run 38490361378); **not merged** |
+| `aei-3gpp-kpi-validator` | same; keeps its own no-optional-extras lane in `ci-gate` | [PR #7](https://github.com/AIDEdgeInc-Lab/aei-3gpp-kpi-validator/pull/7), head `6f38a41` | A | **CI-verified** (run 38490368182); **not merged** |
 | `aei-geo-features` | `ci.yml` replaced by a call to the shared library CI + `ci-gate`; `publish.yml`/`codeql.yml` untouched (Dependabot PRs #18–#21 own them) | [PR #22](https://github.com/AIDEdgeInc-Lab/aei-geo-features/pull/22), head `005ddb9` | A | **CI-verified**; **not merged**; depends on `.github` PR #6 |
 | `velorona-map` | `ci.yml`: pytest on pull requests + `ci-gate` | [PR #29](https://github.com/AIDEdgeInc-Lab/velorona-map/pull/29), head `d19ba45` | A | **CI-verified**; **not merged** (merging deploys; `web/` unchanged) |
 
@@ -138,10 +142,12 @@ production script; add `LICENSE`. Keep production deploy manual until a Stage C 
 **`velorona-demo`** — insert `npm run lint && npm test && npm run build` before the deploy job (they pass locally);
 smoke `demo.velorona.ai` for content, not status 200; pin actions; add top-level `permissions`.
 
-**Libraries (5)** — adopt `reusable-python-lib-ci.yml` (adds `twine --strict`, wheel hygiene, clean-venv import,
-dependency audit), re-run tests on the release commit before publish, call `reusable-pypi-verify.yml` after publish,
-add tag = version check (4 repos lack it), pin all actions (52 refs), add Dependabot to 3 repos and `SECURITY.md` to 3,
-decide Python 3.9 / add 3.13. Register a TestPyPI trusted publisher for `aei-workflow-runner` (comment says none exists).
+**Libraries (5)** — Stage A is done as five CI-verified PRs (geo-features #22, link-clearance #3, link-exposure #6, workflow-runner #2, kpi-validator #7); merge `.github` #6 first, then those. Still open, in order, one PR per repo (publish paths cannot be tested without publishing, so each needs your go-ahead):
+1. Pin the remaining actions in `publish.yml` / `codeql.yml` (52 refs before these PRs; Dependabot PRs on geo-features and kpi-validator already bump them, merge those first to avoid conflicts).
+2. Make `publish.yml` depend on a passing test run on the release commit; add the tag = version check (4 repos lack it).
+3. Call `reusable-pypi-verify.yml` after the PyPI publish job (Stage C), and add `SECURITY.md` to 3 repos.
+4. Protect `main` requiring `ci-gate` (only geo-features is protected today).
+5. Decide Python 3.9 / add 3.13. Register a TestPyPI trusted publisher for `aei-workflow-runner`.
 
 **Private core / libraries monorepo / weather app / simulations** — no CI until packaged, except: add tests for
 `velorona-core-private` before anything is built from it; run `velorona-libraries`' 56 test files in CI;

@@ -90,6 +90,15 @@ Begin with the audit and inventory. Do not make broad changes before understandi
 9. **Merging a Map PR deploys to production** (`main` auto-deploys). Never merge Map PRs on the owner's behalf; say
    clearly in each PR that merging deploys.
 
+10. **Keep tool output small.** `list_workflow_runs` and `list_pull_requests` can return tens of thousands of tokens
+    (every Dependabot run and PR body). Prefer `pull_request_read get_check_runs` for a PR's current state,
+    `actions_get get_workflow_run` / `get_workflow_job` for one run, and filter by `branch`. The run-level view can lag
+    the job-level view by a minute; trust the job or check-run.
+11. **A green job is not a clean result when `continue-on-error` is set.** Read the log of advisory lanes once
+    (e.g. pip-audit printed "No known vulnerabilities found") before reporting them as passing.
+12. **Check each repo's own extra jobs before replacing its CI with a shared workflow.** `aei-3gpp-kpi-validator` had a
+    project-specific lane that would have been silently dropped; keep such lanes in the caller and in `ci-gate`.
+
 ## "Mode check"
 
 When asked for a mode check, answer in four lines: current mode (CTO / Execution Coach / …), the real decision on the
