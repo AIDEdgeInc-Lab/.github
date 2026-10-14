@@ -28,7 +28,7 @@ diligence. **P3** = hardening.
 
 | P | Item | How to check | Status |
 |---|---|---|---|
-| P1 | `main` protected: PR required, status check **`ci-gate`** required, no force-push, no deletion | Repo → Settings → Rules | Evidence (partial): `velorona-map` `main` reports `protected: false` (all 51 branches do), i.e. **no classic branch protection**. Repository *rulesets* are not visible through that field; confirm with `standards/scripts/audit-github-settings.sh`. Other repos: Unknown |
+| P1 | `main` protected: PR required, status check **`ci-gate`** required, no force-push, no deletion | Repo → Settings → Rules | Evidence (partial): `velorona-map` `main` reports `protected: false` (all 51 branches do), i.e. **no classic branch protection**. Repository *rulesets* are not visible through that field; confirm with `standards/scripts/audit-github-settings.sh`. `aei-geo-features` `main` reports `protected: true`. Other repos: Unknown |
 | P1 | **Bot-commit conflict decided** for `velorona-map` (daily "Update QGIS plugin stats" commit to `main`): ruleset bypass for the bot, or switch to PR + auto-merge | Standard §10 | Open decision |
 | P1 | Secret scanning **and push protection** on all repos (public ones are free; private needs the plan to include it) | Repo → Settings → Code security | Unknown |
 | P1 | Actions: default `GITHUB_TOKEN` = read-only; fork-PR workflows require approval; allowed actions restricted to SHA-pinned / selected | Repo/Org → Settings → Actions → General | Unknown |

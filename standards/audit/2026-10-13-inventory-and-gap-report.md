@@ -74,7 +74,7 @@ Cloudflare `cfut_`) over all 13 working trees, plus tracked `.env*`/`*.pem`/key 
 
 The GitHub MCP tools expose neither rulesets, branch-protection rules, required checks, environment reviewers,
 secret-scanning/push-protection state, Actions permissions nor org 2FA. `gh` in the sandbox fails authentication.
-Only one signal was available: `GET branches` → `protected: false` for `velorona-map` `main` and all 50 other branches.
+Only one signal was available: `GET branches` → `protected: false` for `velorona-map` `main` and all 50 other branches; `aei-geo-features` `main` reports `protected: true` (classic protection exists there; its required checks are unknown, and renaming CI jobs, as PR #22 does, may need a matching update).
 
 **Closing the gap (5 minutes, you):** run `standards/scripts/audit-github-settings.sh` with `gh auth login`, save the
 output as `standards/audit/settings-2026-10-13.md`. The script is read-only (GET only). It was lint-checked
@@ -86,6 +86,7 @@ output as `standards/audit/settings-2026-10-13.md`. The script is read-only (GET
 |---|---|---|---|---|
 | `.github` | Standard, checklist, rollback, runbook, audit, reusable workflows, org defaults | [PR #6](https://github.com/AIDEdgeInc-Lab/.github/pull/6), branch `claude/upbeat-feynman-csli2s` | — | **Implemented**; hygiene workflow **CI-verified**, the other two reusable workflows **Validated locally** (below); **not merged** |
 | `velorona-qgis-plugin` | `ci.yml` (unit ×2, enums, bandit, package, QGIS 4.0/4.2 offline suites, `ci-gate`), `release-validate.yml`, `published-verify.yml`, `qgis-live-e2e.yml`, `run_qgis_suite.py`, `check_skips.py`, `requirements-dev.txt`, dependabot, `docs/QUALITY.md` | [PR #18](https://github.com/AIDEdgeInc-Lab/velorona-qgis-plugin/pull/18), head `cdb6c03` | A, B, C | **CI-verified** (below, with one tolerated QGIS 4.0.3 teardown crash); **not merged**, not released |
+| `aei-geo-features` | `ci.yml` replaced by a call to the shared library CI + `ci-gate`; `publish.yml`/`codeql.yml` untouched (Dependabot PRs #18–#21 own them) | [PR #22](https://github.com/AIDEdgeInc-Lab/aei-geo-features/pull/22), head `005ddb9` | A | **CI-verified**; **not merged**; depends on `.github` PR #6 |
 | `velorona-map` | `ci.yml`: pytest on pull requests + `ci-gate` | [PR #29](https://github.com/AIDEdgeInc-Lab/velorona-map/pull/29), head `d19ba45` | A | **CI-verified**; **not merged** (merging deploys; `web/` unchanged) |
 
 ### Evidence, plugin PR #18 (GitHub Actions, final head `cdb6c03`)
@@ -108,7 +109,8 @@ output as `standards/audit/settings-2026-10-13.md`. The script is read-only (GET
   never-published version (404) and for a wrong import name.
 - `reusable-workflow-hygiene.yml` pin/permission checks run over the 7 real repos: they correctly find the 52 unpinned refs.
 - **CI-verified on a runner:** `reusable-workflow-hygiene.yml` (called by this repo's `ci.yml`; actionlint, pin check, permissions check and `ci-gate` all ran and passed: run [38332743132](https://github.com/AIDEdgeInc-Lab/.github/actions/runs/38332743132) @ `278468d`, PR [#6](https://github.com/AIDEdgeInc-Lab/.github/pull/6)).
-- **Not CI-verified**: `reusable-python-lib-ci.yml` and `reusable-pypi-verify.yml` have not run on GitHub yet (they become callable after this repository's branch is merged).
+- **CI-verified on a runner (2026-10-14):** `reusable-python-lib-ci.yml`, called from [aei-geo-features PR #22](https://github.com/AIDEdgeInc-Lab/aei-geo-features/pull/22) pinned to `b98a66f`: run [38489787139](https://github.com/AIDEdgeInc-Lab/aei-geo-features/actions/runs/38489787139) → `Test` on Python 3.9/3.10/3.11/3.12 ✔, `Build and verify distribution` ✔ (build, `twine check --strict`, wheel contents, clean-venv import), `Dependency audit` ✔ ("No known vulnerabilities found"), `ci-gate` ✔. One matrix leg (3.10) spent 2.5 min in `pip install` (runner/network variance, passed).
+- **Not CI-verified**: `reusable-pypi-verify.yml` (needs a real release; its logic was verified against real PyPI locally).
 
 ## 6. Gap register by repository (what to do, in order)
 
