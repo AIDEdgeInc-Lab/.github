@@ -51,7 +51,7 @@ permissions:
 jobs:
   test:
     name: Test (Python ${{ matrix.python-version }})
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 20
     strategy:
       fail-fast: false
@@ -78,7 +78,7 @@ jobs:
   build:
     name: Build and verify distribution
     needs: test
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
@@ -115,7 +115,7 @@ jobs:
   audit:
     name: Dependency audit (pip-audit)
     needs: test
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 10
     # Advisory until audit-blocking is true: a new upstream advisory must not block unrelated PRs by surprise,
     # but it must still be visible. Classification: this is an external-advisory failure, not a code defect.

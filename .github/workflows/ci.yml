@@ -17,7 +17,7 @@ jobs:
   ci-gate:
     if: ${{ always() }}
     needs: [hygiene]
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 2
     steps:
       - name: All required lanes must have succeeded
